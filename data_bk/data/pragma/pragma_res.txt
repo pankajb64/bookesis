@@ -1,0 +1,709 @@
+Together, were going to journey through bits of cognitive science, neuroscience, and learning and behavioral theory.
+Youll see surprising aspects of how our brains work and see how you can beat the system to improve your own learning and thinking skills.
+Programming is all about problem solving.
+Its complexity strains our best abilities daily, and failures can often Prepared exclusively for Edwin Chen C HAPTER 1.
+Because of the way the industry has evolved over time, it seems weve lost track of some of the most fundamental, most important skills needed by a software developer.
+Weve spent the time investing in basic technologyin languages, tools, methodologies.
+Frederick Brooks, in his landmark paper No Silver BulletEssence and Accident in Software Engineering [Bro86], claimed that the software product is embedded in a cultural matrix of applications, 1.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C HAPTER 1.
+Because of this complex interaction of many interested parties and forces and the constant evolution of change, it seems to me that the two most important modern skills are these:  Communication skills  Learning and thinking skills Some improvement to communication skills is being addressed by our industry.
+Mass-media books such as Presentation Zen: Simple Ideas on Presentation Design and Delivery [Rey08] are suddenly best-sellers as more and more people realize the importance of simple, effective communication.
+But then theres learning and thinking, which is a much harder nut to crack.
+Then we have to apply this learning to the daily barrage of both old and new problems.
+It sounds easy enough in principle perhaps, but learning, critical thinking, creativity, and inventionall those mind-expanding skillsare all up to you.
+The learning is always up to you.
+Its my hope that Pragmatic Thinking and Learning can help guide you through accelerated and enhanced learning and more pragmatic thinking.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) A GAIN WITH THE P RAGMATIC ?
+The term agile methods was coined at a summit meeting in February 2001 by seventeen leaders in software development, including the founders of various development methodologies such Extreme Programming, Scrum, Crystal, and, of course, our own pragmatic programming.
+Agile methods differ from traditional plan-based methods in a number of significant ways, most notably in eschewing rigid rules and discarding dusty old schedules in favor of adapting to real-time feedback.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C ONSIDER THE C ONTEXT What Is Wetware?
+1.2 Consider the Context Everything is interconnected: the physical world, social systems, your innermost thoughts, the unrelenting logic of the computer everything forms one immense, interconnected system of reality.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E VERYONE I S T ALKING A BOUT T HIS S TUFF These kinds of activities utilize very different pathways in the brainpathways that are affected by your very thoughts and how you think them.
+This is just one example (and well talk more about the brain later in the book), but it helps illustrate the importance of thinking about interacting systems.
+In his seminal book The Fifth Discipline: Everything is The Art and Practice of the Learning Organization [Sen90], Peter Senge popularized interconnected.
+But these were in very different and diverse areas, including the following:  MBA and executive-level training  Cognitive science research Suggested by our old buddy Heisenberg and his quantum uncertainty principle, the more general observer effect posits that you cant observe a system without altering it.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HERE W E  RE G OING  Learning theory  Nursing, health care, aviation, and other professions and industries  Yoga and meditative practices  Programming, abstraction, and problem solving  Artificial intelligence research When you start to find the same set of ideasthe same common threads Theres something showing up in different guises in these fundamental here.
+I noticed an article in an in-flight magazine around October 2005 that trumpeted the headline Companies Now Offering Yoga and Meditation to Help Fight Rising Health-Care Costs. Large companies have not historically embraced such warm-andfuzzy activities.
+But the meteoric rise of health-care costs has forced them to take any course of action that might help.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HERE W E  RE G OING After all, everything is connected to everything else.
+The Dreyfus model of skill acquisition provides a powerful way of looking at how you move beyond beginner-level performance and begin the journey to mastery of a skill.
+Well take a look at the Dreyfus model and in particular look at the keys to becoming an expert: harnessing and applying your own experience, understanding context, and harnessing intuition.
+This Is Your Brain The most important tool in software development is, of course, your own brain.
+Get in Your Right Mind Once we have a better understanding of the brain, we will find ways to exploit underutilized facets of thinking to help encourage better creativity and problem solving, as well as harvest and process experiences more effectively.
+Intuition, the hallmark of the expert, turns out to be a tricky beast.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HERE W E  RE G OING Debug Your Mind Intuition is a fantastic skill, except when its wrong.
+Learn Deliberately Now that weve gotten a good look at how the brain works, well start taking a more deliberate look at how to take advantage of the system, beginning with learning.
+Note that I mean learning in the broadest sense, covering not only new technologies, programming languages, and the like, but also your learning of the dynamics of the team youre on, the characteristics of the evolving software youre building, and so on.
+Ill show you some specific techniques to help improve your learning ability.
+Well look at planning techniques, mind maps, a reading technique known as SQ3R, and the cognitive importance of teaching and writing.
+Gain Experience Gaining experience is key to your learning and growthwe learn best by doing.
+Well take a look at what you need to create an efficient learning environment using feedback, fun, and failure; see the dangers of deadlines; and see how to gain experience virtually with mental grooving.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HERE W E  RE G OING Manage Focus Managing your attention and focus is the next critical step in your journey.
+2 Put up a sign somewhere near your monitor that reads Consider the context. Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) G RATEFUL A CKNOWLEDGMENTS About the Figures You may notice that figures in this book dont look like the typical shiny, mechanically perfect drawings youd expect from Adobe Illustrator or something similar.
+1.5 Grateful Acknowledgments Very special thanks to Ellie Hunt for introducing me to the Dreyfus model and related nursing research, suffering through my disjointed and rambling prose, keeping me on track, and keeping our domestic enterprises running like a well-oiled machine.
+Special thanks to June Kim for his many contributions throughout the book, including pointers to far-flung research and stories of his own experiences, as well as his feedback throughout the stages of birthing this book.
+Special thanks also to Dr. Patricia Benner, who introduced the Dreyfus model of skills acquisition to the nursing profession, for her support and permission to quote from her works and for her enthusiasm for learning.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) G RATEFUL A CKNOWLEDGMENTS Thanks to Sara Lynn Eastler for the index, to Kim Wimpsett for correcting my many typos and often haphazard grammar, and to Steve Peter for implementing a plethora of typesetting tricks.
+Lets move our profession forward in the right direction, harness our experience and intuition, and create new environments where learning matters.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) We cant solve problems by using the same kind of thinking we used when we created them.
+They developed the Dreyfus model of skill acquisition,1 which outlines five discrete stages through which one must pass on the journey from novice to expert.
+Described in Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer [DD86].
+Prepared exclusively for Edwin Chen C HAPTER 2.
+See Tools of Critical Thinking: Metathoughts for Psychology [Lev97].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) N OVICES VS .
+2.1 Novices vs.
+Experts What do you call an expert software developer?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) N OVICES VS .
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T HE F IVE D REYFUS M ODEL S TAGES When experts do their thing, it appears almost magical to the rest of usstrange incantations, insight that seems to appear out of nowhere, and a seemingly uncanny ability to know the right answer when the rest of us arent even all that sure about the question.
+Novices and experts are fundamentally different.
+2.2 The Five Dreyfus Model Stages In the 1970s, the brothers Dreyfus (Hubert and Stuart) began doing their seminal research on how people attain and master skills.
+Instead, you experience fundamental differences in how you perceive the world, how you approach problem solving, and the mental models you form and use.
+Cited in From Novice to Expert: Excellence and Power in Clinical Nursing Practice [Ben01].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T HE F IVE D REYFUS M ODEL S TAGES Unlike other models or assessments that rate the whole person, the Dreyfus model is applicable per skill.
+Stage 1: Novices Novices, by definition, have little or no previous experience in this skill area.
+Novices are very concerned about their ability to succeed; with little experience to guide them, they really dont know whether their actions will all turn out OK.
+Novices dont particularly want to learn; they just want to accomplish an immediate goal.
+Novices need recipes.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T HE F IVE D REYFUS M ODEL S TAGES Figure 2.2: Recipe for corn muffins.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T HE F IVE D REYFUS M ODEL S TAGES As with most people, I am a novice when it comes to doing my taxes.
+At some point, you have to stop defining explicitly.
+Advanced beginners can start to break away from the fixed rule set a little bit.
+For instance, you may feel like this when youre learning a new language or API and you find yourself scanning the documentation quickly looking for that one method signature or set of arguments.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T HE F IVE D REYFUS M ODEL S TAGES Advanced beginners can start using advice in the correct context, based on Advanced beginners similar situations theyve experienced in dont want the big the recent past but just barely.
+although they can start formulating some overall principles, there is no big picture. They have no holistic understanding and really dont want it yet.
+Without more experience, theyll still have trouble trying to determine which details to focus on when problem solving.
+See Teaching and Learning Generic Skills for the Workplace [SMLR90].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T HE F IVE D REYFUS M ODEL S TAGES In the field of software development, were getting there, but even at this level, practitioners cant apply agile methods the way we would likethere isnt yet enough ability for reflection and selfcorrection.
+Along with the capacity to learn from others comes the ability to understand and apply maxims, which are proverbial, fundamental truths that can be applied to the situation at hand.5 Maxims are not recipes; they have to be applied within a certain context.
+See Personal Knowledge [Pol58].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T HE F IVE D REYFUS M ODEL S TAGES Pragmatic Tips When Dave Thomas and I wrote the original The Pragmatic Programmer, we were trying to convey some of the advice we thought was most relevant to our profession.
+From the mind-expanding practice of learning a new language every year to the hardwon principles of Dont Repeat Yourself (DRY) and No Broken Windows, maxims such as these are key to transferring expertise.
+Similarly, software Patterns (as espoused in Design Patterns: Elements of Reusable Object-Oriented Software [GHJV95], also known as the Gang of Four book) can be effectively applied by proficientlevel practitioners (but not necessarily at lower skill levels; see the sidebar on the next page).
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T HE F IVE D REYFUS M ODEL S TAGES Misapplied Patterns and Fragile Methods As you may realize by now, some of the most exciting new movements in the software development community are targeted at proficient and expert developers.
+Agile development relies on feedback; in fact, my definition of agile development from Practices of an Agile Developer: Working in the Real World [SH06] says this: Agile development uses feedback to make constant adjustments in a highly collaborative environment. But being able to self-correct based on previous performance is possible only at the higher skill levels.
+Advanced beginners and competent practitioners often confuse software design patterns with recipes, sometimes with disastrous results.
+Experts are the primary sources of knowledge and information in any field.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D REYFUS AT W ORK : H ERDING R ACEHORSES AND R ACING S HEEP Experts work from intuition, not from reason.
+This has some very interesting rami- Experts work from fications and raises some key questions intuition.
+The expert knows the difference between irrelevant details and the very important details, perhaps not on a conscious level, but the expert knows which details to focus on and which details can be safely ignored.
+The expert is very good at targeted, focused pattern matching.
+Experts arent perfect.
+Its actually easy to derail an expert Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D REYFUS AT W ORK : H ERDING R ACEHORSES AND R ACING S HEEP Unskilled and Unaware of It When you are not very skilled in some area, you are more likely to think youre actually pretty expert at it.
+In the paper Unskilled and Unaware of It: How Difficulties in Recognizing Ones Own Incompetence Lead to Inflated Self-Assessments [KD99], psychologists Kruger and Dunning relate the unfortunate story of a would-be thief who robbed a bank in broad daylight.
+Charles Darwin pegged it when he said, Ignorance more frequently begets confidence than does knowledge. The converse seems to be true as well; once you truly become an expert, you become painfully aware of just how little you really know.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D REYFUS AT W ORK : H ERDING R ACEHORSES AND R ACING S HEEP and ruin their performance.
+Thats not how you get a good return on investment in a racehorse; you need to let them run.8 Intuition is the tool of the expert in all fields, but organizations tend to discount it because they mistakenly feel that intuition isnt scientific or isnt repeatable. So, we tend to throw out the baby with the bathwater and dont listen to the experts to whom we pay so much.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D REYFUS AT W ORK : H ERDING R ACEHORSES AND R ACING S HEEP Work to Rule In industries or situations where one is not allowed a fullblown strike, a work slowdown is often used as a means of demonstration.
+According to Benner (in From Novice to Expert: Excellence and Power in Clinical Nursing Practice [Ben01]), Practices can never be completely objectified or formalized because they must ever be worked out anew in particular relationships and in real time. all developers the same, regardless of ability.
+The journey from novice to expert involves more than just rules and intuition, of course.
+But the three most important changes along the way are the following:10  Moving away from reliance on rules to intuition In 1968, a difference of 10:1 in productivity among programmers was noted in Exploratory Experimental Studies Comparing Online and Offline [Sac68].
+Identified in From Novice to Expert: Excellence and Power in Clinical Nursing Practice [Ben01]; more on this landmark book in just a bit.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D REYFUS AT W ORK : H ERDING R ACEHORSES AND R ACING S HEEP Figure 2.3: Dreyfus model of skill acquisition  A change in perception, where a problem is no longer a collection of equally relevant bits but a complete and unique whole where only certain bits are relevant  Finally, a change from being a detached observer of the problem to an involved part of the system itself This is the progression from novice to expert, away from detached and absolute rules and into intuition and (remember systems thinking?)
+stage, advanced beginner, performing the tasks they need and learning new tasks as the need arises but never acquiring a more broad-based, conceptual understanding of the task environment.11 A more accurate distribution is shown in Figure 2.4, on the following page.
+Anecdotal evidence for the phenomenon abounds, from the rise of copy-and-paste coding (now using Google as part of the IDE) to the widespread misapplication of software design patterns.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D REYFUS AT W ORK : H ERDING R ACEHORSES AND R ACING S HEEP Figure 2.4: Skill distribution Also, metacognitive abilities, or the ability of being self-aware, tends to be possible only at the higher skill levels.
+According to a study in Unskilled and Unaware of It: How Difficulties in Recognizing Ones Own Incompetence Lead to Inflated Self-Assessments [KD99], the only path to a more correct self-assessment is to improve the individuals skill level, which in turn increases metacognitive ability.
+Experts will show much more self-doubt.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SING THE D REYFUS M ODEL E FFECTIVELY Expert != Teacher Experts arent always the best teachers.
+Teaching is an expertise in its own right; just because you are expert in some subject is no guarantee that you can teach it to others.
+The hallmark of the expert is their use of intuition and the ability to recognize pat- Intuition and pattern terns in context.
+petents cant recognize patterns at all but that the experts intuition and pattern recognition now take the place of explicit knowledge.
+This transition from the novices context-free rules to the experts context-dependent intuition is one of the most interesting parts of the Dreyfus model; so our goal, for most of the rest of this book, is to see how we might better harness intuition and get better at recognizing and applying patterns.12 2.4 Using the Dreyfus Model Effectively By the late 1970s or so, the nursing profession was in dire straits.
+Described in From Novice to Expert: Excellence and Power in Clinical Nursing Practice [Ben01].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SING THE D REYFUS M ODEL E FFECTIVELY Ten Years to Expertise?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SING THE D REYFUS M ODEL E FFECTIVELY  Because of pay-scale inequities, expert nurses were leaving direct patient care in droves.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SING THE D REYFUS M ODEL E FFECTIVELY Over the course of the next twenty-five years or so, Benner and subsequent authors and researchers turned their profession around.
+Accepting Responsibility Twenty-five years ago, nurses were expected to follow orders without question, even vehementlyand proudlymaintaining that they never veer from doctors orders, despite obvious changes in patients needs or conditions.
+Described in Influence: Science and Practice [Cia01].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SING THE D REYFUS M ODEL E FFECTIVELY Fortunately, they were stopped by an accomplice who explained the experimentand stopped them from carrying out the bogus order.15 We see very much the same problems with programmers and their project managers or project architects.
+Feedback from coders to those who define architecture, requirements, and even business process has traditionally been either lacking entirely, brutally rejected, or simply lost in the noise of the project.
+Advanced beginners arent capable of making these sorts of decision by themselves.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SING THE D REYFUS M ODEL E FFECTIVELY No Expertise Without Experience Jazz is an art form that relies heavily on real-world experience.
+Trumpeter Clark Terry used to tell students the secret to learning music was to go through three phases:  Imitate  Assimilate  Innovate That is, first you imitate existing practice and then slowly assimilate the tacit knowledge and experience over time.
+This echoes the cycle of training in the martial arts known as Shu Ha Ri.
+Keeping Expertise in Practice The nursing profession was losing expertise rapidly; because of the limits of pay scales and career development, nurses with high skill levels would reach a point in their careers where they were forced to move out of direct clinical practice and into areas of management or education or move out of the field entirely.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SING THE D REYFUS M ODEL E FFECTIVELY This largely remains the case in software development as well.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) B EWARE THE T OOL T RAP  Timing is everything: the drummer (for a band) or accompanist (for choral groups) has to be solid.
+Thats exactly the same thing you want on a software team.17 This idea of providing the right environment for skilled developers is critical.
+The drummer analogy is stretching it a bit, but I do talk more about the rhythm of development projects in Practices of an Agile Developer: Working in the Real World [SH06].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) B EWARE THE T OOL T RAP as many people claimed that RUP and CMM process models were the salvation of the industry.
+Worse yet, the misapplication of these approaches has probably done far more damage than good.
+Theres the old story of the young project manager, where his senior programmer announced she was pregnant and going to deliver during the project, and he protested that this wasnt on the project plan. Devaluing traits that cannot be formalized Good problem-solving skills are critical to our jobs, but problem solving is a very hard thing to formalize.
+Even though you want these traits Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) B EWARE THE T OOL T RAP on your team, you may find that management will stop valuing them simply because they cannot be formalized.
+By targeting your methodology to novices, you will create a poor working environment for the experienced team members, and theyll simply leave your team and/or organization.
+Oversimplification of complex situations Early proponents of the Rational Unified Process (and some recent ones) cling to the notion that all you have to do is just follow the process. Some advocates of Extreme Programming insist all you need to do is just follow these twelveno wait, maybe thirteenpractices and everything will work out.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C ONSIDER THE C ONTEXT, A GAIN Insensitivity to contextual nuances Formal methods are geared to the typical, not the particular.
+Context is critical to expert performance, and formal methods tend to lose any nuances of context in their formulations (they have to; otherwise, it would take thousands of pages just to describe how to get coffee in the morning).
+Confusion between following rules and exercising judgment When is it OK to break the rules?
+Dont succumb to the false authority of a tool or a model.
+2.6 Consider the Context, Again One of the most important lessons from the Dreyfus model is the realization that although the novice needs context-free rules, the expert uses context-dependent intuition.
+John Steinbeck, The Sea of Cortez Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C ONSIDER THE C ONTEXT, A GAIN In The Sea of Cortez, Steinbeck muses on the interplay of context and truth.
+Context matters.
+Context matters.
+Context matters.20 There is an inherent danger in decontextualized objectivity, that is, in trying to be objective about something after taking it out of its context.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D AY - TO -D AY D REYFUS Context matters, but the lower several stages on the Dreyfus model arent skilled enough to know it.
+What you need for your own learning and personal growth will change over time.
+Novices need quick successes and context-free rules.
+Understanding the Dreyfus model and skills acquisition is a skill itself; learning to learn is subject to the Dreyfus model.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D AY - TO -D AY D REYFUS TIP 7 Learn the skill of learning.
+To embark on this path to expertise, well need to do the following:  Cultivate more intuition  Realize the increasing importance of context and of observing situational patterns  Better harness our own experience To see how to accomplish these goals, well start the next chapter by taking a closer look at how the brain works.
+2 Think back to problems youve experienced on a project team.
+2 Think of your teammates: Where are they on their journey?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) The human brain starts working the moment you are born and never stops until you stand up to speak in public.
+Prepared exclusively for Edwin Chen Y OUR D UAL -CPU M ODES Figure 3.1: This is your brain.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) Y OUR D UAL -CPU M ODES CPU #2, however, is very different.
+Its your brains answer to Google: think of it like a super regular-expression search engine, responsible for searching and pattern matching.
+Well refer to the asynchronous, holistic style of CPU #2 as rich mode, or R-mode for short.
+You need both: R-mode is critical for intuition, problem solving, and creativity.
+Memory and Bus Contention R-mode is very important to your day-to-day work: it acts as your search and retrieval engine for long-term memory and ideas that are in process. But as I mentioned, R-mode doesnt do any verbal processing.
+Thats because the images, feelings, and overall experience are R-mode things: your dream was Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) Y OUR D UAL -CPU M ODES Holographic Memory Memory is stored holographically, in the sense that your memory has certain properties of a hologram. In a real hologram (made using a laser), every piece of the film contains the entire image.
+See Hare Brain, Tortoise Mind: How Intelligence Increases When You Think Less [Cla00].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) Y OUR D UAL -CPU M ODES Memory Must Be Refreshed Remember the movie Total Recall?
+http://pressesc.com/news/1088/16082007/memories-can-be-erased-scientists-find Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) Y OUR D UAL -CPU M ODES database describing the faces of the people you know in such a way that you could recognize them based on that description?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C APTURE I NSIGHT 24 X 7 Whos in Charge Here?
+Well look at this in more depth in Section 8.2, Defocus to Focus, on page 225. in the next chapter.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C APTURE I NSIGHT 24 X 7 cheap 69-cent affair from the grocery storeskinny, not spiral bound, like an oversize book of matches.
+Index cards Some folks prefer having separate cards to make notes on.
+PDA You can use your Apple iPod or Touch or Palm OS or Pocket PC device along with note-taking software or a wiki (see Section 8.3, Manage Your Knowledge, on page 228 for more on this idea).
+Voice memos You can use your cell phone, iPod/iPhone, or other device to record voice memos.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C APTURE I NSIGHT 24 X 7 Figure 3.2: Disposable pocket organizer from pocketmod.com invention.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C APTURE I NSIGHT 24 X 7 Moleskine Notebooks A very popular style of notebook these days is made by Moleskine (see http://www.moleskine.com).
+The makers of Moleskine call it a reservoir of ideas and feelings, a battery that stores discoveries and perceptions, and whose energy can be tapped over time. I like to think of it as my exocortexcheap external mental storage for stuff that doesnt fit in my brain.
+Well talk about this in depth a bit later (see Section 8.3, Manage Your Knowledge, on page 228).
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L INEAR AND R ICH C HARACTERISTICS Figure 3.3: Everyone has good ideas; fewer go further.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L INEAR AND R ICH C HARACTERISTICS There is of course plenty to talk about with these two major modes of thinking and consciousness, R-mode and L-mode, and what they can do for you.
+As described in The New Drawing on the Right Side of the Brain [Edw01].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L INEAR AND R ICH C HARACTERISTICS Figure 3.4: Split-brain subjects showing sensory preference Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L INEAR AND R ICH C HARACTERISTICS Left Brain vs.
+Guy Claxton, in Hare Brain, Tortoise Mind: How Intelligence Increases When You Think Less [Cla00], refers to these as d-mode and the undermind.
+Dan Pink, author of A Whole New Mind: Moving from the Information Age to the Conceptual Age [Pin05], refers to these two as l-directed and r-directed.
+Dr. Betty Edwards, of Drawing on the Right Side of the Brain [Edw01] fame, was the first to break out of the right/left brain mold and referred to these simply as L mode and R mode.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L INEAR AND R ICH C HARACTERISTICS Characteristics of L-mode Processing L-mode processing is comfortable, familiar, geek turf.
+L-mode gives you these abilities: Verbal Using words to name, describe, and define Analytic Figuring things out step-by-step and part-by-part Symbolic Using a symbol to stand for something Abstract Taking out a small bit of information and using it to represent the whole thing Temporal Keeping track of time and sequencing one thing after another Rational Drawing conclusions based on reason and facts Digital Using numbers as in counting Logical Drawing conclusions based on logic (theorems, well-stated arguments) Linear Thinking in terms of linked ideas, one thought directly following another, often leading to a convergent conclusion This is clearly the motherhood-and-apple-pie of the white-collar, information-worker, engineering kind of life.
+To those of us firmly Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L INEAR AND R ICH C HARACTERISTICS entrenched in the L-mode way, the R-mode traits may sound a little strange, fuzzy, or even acutely uncomfortable.
+It favors learning by synthesis: putting things together to form wholes.
+The R-mode is decidedly holistic and wants to see the whole thing at once, perceiving the overall patterns and structures.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L INEAR AND R ICH C HARACTERISTICS Figure 3.5: R-mode attributes Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L INEAR AND R ICH C HARACTERISTICS Theres nothing wrong with that; just because a thought process is nonrational or nonrepeatable doesnt mean it is unscientific, irresponsible, or inappropriate in any way.
+Experts rely on seeing and discriminating patterns; pattern matching is here too.
+And you might already be reaching for synthetic learning more often than you think.
+In fact, synthesis is such a powerful learning technique that Nicholas Negroponte of the MIT Media Lab suggested in Dont Dissect the Frog, Build It [Neg94] that to really learn about a frog, traditional dissection is not the way to go.
+Its a perfect example of learning by synthesis.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ISE OF THE R- MODE TIP 9 Learn by synthesis as well as by analysis.
+But embracing synthesis as a learning technique is just the beginning.
+In fact, you can do a lot of things to increase the amount of brain power you can bring to bear on a problem, by leveraging both modes of thinking as appropriatefrom simple techniques such as fiddling with something with your hand while you think to doodling while on the phone to some really interestingand exotic techniques.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ISE OF THE R- MODE Mr. Lutz is a former Marine and pilot.
+In his popular book A Whole New Mind: Moving from the Information Age to the Conceptual Age [Pin05], Dan makes the case that economic and societal forces have taken us to the point where these artistic, aesthetic, R-mode attributes arent a neat luxury for Martha Stewart types who want to craft their own greeting cards; instead, they are positively required for plain old, mainstream business.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ISE OF THE R- MODE Michael Graves.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ISE OF THE R- MODE Attractive Works Better Several studies13,14,15 have conclusively shown that attractive user interfaces are easier to use than unattractive (or to use the scientific term, ugly) interfaces.
+Thinking that maybe there was a cultural bias at work, researchers repeated the experiment in Israel.
+In fact, additional studies16 have shown exactly that: positive emotions are essential to learning and creative thinking.
+When you are fearful or angryfilled with negative emotionsyour brain starts shutting down extra resources in preparation for the inevitable fight or flight (well look at that side of the reaction in Section 7.5, Pressure Kills 13.
+Aesthetics and Apparent Usability: Empirically Assessing Cultural and Method- ological Issues [Tra97].
+Automatic Effects of Brand Exposure on Motivated Behavior: How Apple Makes You Think Different [FCF07].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ISE OF THE R- MODE Cubicles Kill Neurons You may have always heard that you start off with a certain number of brain cells, and thats all you get.
+Weve seen the Broken Windows theory (see The Pragmatic Programmer: From Journeyman to Master [HT00]) in action for years.
+Aesthetics make a difference, whether its in a user interface, the layout of your code and comments, the choices of variable names, the arrangement of your desktop, or whatever.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R- MODE S EES F OREST ; L- MODE S EES T REES TIP 10 Strive for good design; it really works better.
+Creativity comes from the selection and assembly of just the right components in just the right presentation to create the work.
+And selectionknowing what to select and in what contextcomes from pattern matching, and thats a topic to which well keep returning.
+3.5 R-mode Sees Forest; L-mode Sees Trees Pattern matching is a key ability demonstrated by experts.
+And for the most part, the pattern matching weve been interested in lies in the neglected R-mode activity.
+But both L-mode and Rmode have their separate approaches to pattern matching, and in the end you need both.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R- MODE S EES F OREST ; L- MODE S EES T REES Consider the following figure:18 I I I I I I I I I I I I I I I I I I I I I I I Here we have an H character made up of individual I characters.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) DIY B RAIN S URGERY AND N EUROPLASTICITY If by chance you arent a math prodigy, then we need to take a look at some other way to get the R-mode and L-mode to cooperate: to better integrate L-mode and R-mode processing.
+3.6 DIY Brain Surgery and Neuroplasticity You can physically rewire your brain.
+Described in The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science [Doi07].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H OW D O Y OU G ET T HERE ?
+Neuroplasticity (the plastic nature of the brain) also means that the maximum amount you can learn, or the number of skills you attain, is not fixed.
+In either case, what you think about the brains capacities physically affects the Thinking makes it so.
+Just thinking that your brain has more capacity for learning makes it so.
+Skills and abilities that you constantly use and constantly practice will begin to dominate, and more of your brain will become wired for those purposes.
+Practice coding more.
+Think in it.
+In this chapter, weve looked at features of your brain, including the L-mode and R-mode cognitive processes, and at rewiring your Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H OW D O Y OU G ET T HERE ?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) A man should learn to detect and foster that gleam of light which flashes across his mind from within far more than the lustre of the whole firmament without.
+4.1 Turn Up the Sensory Input The simplest thing you can do to begin to involve more of your brain in problem solving and creativity is to activate more neural pathways than usual.
+Prepared exclusively for Edwin Chen T URN U P THE S ENSORY I NPUT That means expanding sensory involvementusing different senses than usual.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D RAW ON THE R IGHT S IDE  Act out the roles involved.
+The vast majority in Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D RAW ON THE R IGHT S IDE every case agrees with my own self-assessment: we suck at drawing.
+Drawing is an R-mode activity.
+Actually, Drawing is really let me back up a moment and describe what I mean by drawing.
+Drawing really about seeing.
+Or as Jerre Levy (prominent Cal Tech student of Sperry) says, you want to look at setting up conditions that cause you to make a mental shift to a different mode of information processingthe slightly altered state of consciousnessthat enables you to see well. In the late 1970s, art teacher Dr. Betty Edwards wrote the seminal work Drawing on the Right Side of the Brain.
+The L-mode is a symbolic machine; it rushes in quickly to provide a symbolic representation for some sensory input.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D RAW ON THE R IGHT S IDE Role-Playing Johanna Rothman describes her experience using roles to work through some design issues: The team was working on the project to save the company.
+Role-playing a design is not open discussion; its participating in and watching the design in action. Linda Rising describes another use of acting out: training a team.
+Prepared exclusively for Edwin Chen STOP Report erratum this copy is (P1.0 printing, October 2008) D RAW ON THE R IGHT S IDE Figure 4.1: Is this Your House?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D RAW ON THE R IGHT S IDE Figure 4.2: Draw this picture.
+Prepared exclusively for Edwin Chen STOP Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW Why does this work?
+Thats the whole point of Drawing on the Right Side of the Brain.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW Go Climb a Wall Once upon a time, my wife thought it would be fun for us to try rock climbing.
+itate learning.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW The Lozanov Seance In the late 1970s, Bulgarian psychologist Georgi Lozanov began experimenting with what he termed a seance.4 The idea was to create a learning environment that would help create an R-mode to L-mode flow, in this case, specifically for foreign language training.
+In the years since, many educators have seized this idea of leveraging the R-mode for its acquisition capabilities.5 As with any exciting new technique, some folks took it too far in one direction and advocated pure R-mode techniques that completely ignored the L-mode.
+But remember See the Education Resources Information Center at http://eric.ed.gov.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW its not a one-way trip; you need to return to R-mode to keep the ideas flowing.
+Just as creativity can be stifled by trying to tie ideas down prematurely, learning can be impeded by trying to memorize minor facts when you dont yet grasp the whole.
+When problem solving, learn to be comfortable with Get used to it.
+When learning, dont try so hard to learn and memorize; just get used to it first.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW Shitty First Drafts Part of being comfortable with uncertainty means being comfortable with something thats incomplete and unfinished.
+In her book Bird by Bird: Some Instructions on Writing and Life, Lamott explains the dangers of perfectionism: Perfectionism is the voice of the oppressor, the enemy of the people.
+We have become so highly focused on (and rewarded for) the L-mode style of thinking and learning that we neglect the R-mode.
+Pair Programming An interesting way to get L-mode to work with R-mode is to use another person for the other mode.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW One of the more effectiveand controversialpractices espoused by Extreme Programming is pair programming.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW this case, the well-known computer-science parity rule) and who hadnt.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW rodent.
+We use metaphors constantly; in fact, cognitive linguist George Lakoff (Women, Fire, and Dangerous Things: What Categories Reveal About the Mind [Lak87]) maintains that we cant even think at all without the use of metaphor.
+This idea is the basis of Edward de Bonos Po technique.10 Po is See his article Bisociation in Creation included in The Creativity Question [RH76].
+See PO: A Device for Successful Thinking [DB72] for more.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW an invented word that tries to go beyond the binary notion of yes and no. Several techniques involve Po; for now, you might think of it as a super-powerful version of suppose.
+One of the Po techniques is random juxtaposition.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW System Metaphor The original published version of Extreme Programming (described in Extreme Programming Explained: Embrace Change [Bec00]) featured a fascinating practice: system metaphor.
+System metaphor, as a practice, is not as widely accepted as, say, test-first development or pair programming.
+Programmers are sloppy in their use of metaphorstables that arent at all like tables, threads that arent like threads, memory cells that arent like memory or cells. Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW We use metaphors so much that were not even aware of many of them (as with windows, mice, and so on).
+Humor is neither a waste of time nor a harmless diversion; instead, it reflects an important ability necessary for thinking, learning, and creativity.
+Humor arises from making novel connections across disparate ideas.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E NGAGE AN R- MODE TO L- MODE F LOW Or the all-time classic line from Henny Youngman: Take my wife.
+In either case, the talent for humor comes from drawing or extending relationships beyond the norm, truly seeing out of the box. A quick witbeing able to draw connections between things that arent related or to extend an idea past its breaking pointis a skill well worth practicing, honing, and encouraging in your team.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES Next Actions 2 Make more metaphors.
+In fact, its entirely possible that your R-mode already has exactly the answer to the most important problem that youre working on right now.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES But, all is not lost.
+But since the R-mode is nonverbal, how can it be presented to the L-mode for processing?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES Figure 4.3: Elias Howes patent The R-mode has to throw it over the fence visually, in this case wrapped up in the disturbingand very memorableimagery of an outlandish dream.
+Let us now take a quick look at two different ways of harvesting some of this R-mode recognition: image streaming and free-form journaling.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES Inarticulate Ability One group of researchers experimented with showing students random numbers flashing on different quadrants of a computer screen.
+Thanks to June Kim for this; also documented in Hare Brain, Tortoise Mind: How Intelligence Increases When You Think Less [Cla00].
+Acquisition of Procedural Knowledge About a Pattern of Stimuli That Cannot Be Articulated [Lew88].
+Image streaming is a technique designed to help harvest R-mode imagery.13 The basic idea is to deliberately observe mental imagery: pay close attention to it, and work it around in your mind a bit.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES For each image that crosses your mind, do the following: 1.
+Harvesting with Free-Form Journaling Another simple way of harvesting your R-modes preconscious treasures is to write.
+Blogging has enjoyed tremendous popularity in recent years, and probably rightfully so.
+Sometimes the material is relatively dullwhat the weather was doing, how the prices at the market were up, how the scullery maid ran off with the stable boy, and so Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES Tools and Interference When you try to start any creative endeavor, such as writing on a blog, an article, or (heaven help you) a full-length book, you will encounter massive resistance.
+Resistance can take many forms, from niggling self-doubt to wildly creative procrastination to a myriad assortment of other distractions and excuses (see The War of Art: Break Through the Blocks and Win Your Inner Creative Battles [Pre02] for a disturbingly complete catalog of the many manifestations of resistance).
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES But there are many ways to write your thoughts down, and some are more effective for our purposes than others.
+The Morning Pages Technique This is a technique that I first heard about in the context of a writers workshop (also described in The Artists Way [Cam02]); its a common technique for authors.
+Thomas Edison had an interesting twist on this idea.
+He knew that just Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES as he started to drift off into sleep, his subconscious mind would take up the challenge of his problem and provide a solution.
+Writing for a public audience is a great way to clarify your own thoughts and beliefs.
+You might want to try using Jerry Weinbergs Fieldstone method, described in Weinberg on Writing: The Fieldstone Method [Wei06].15 This method takes its name from building fieldstone walls: you dont plan ahead to gather these particular stones for that wall.
+Harvesting by Walking You can harvest R-mode cues just by walking, if you do it right.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES Figure 4.4: Grace Cathedral, San Francisco A labyrinth is not a puzzle; its a tool for meditation.
+But you dont have to start washing a lot of Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVEST R- MODE C UES dishes or compulsively mowing your yard in order to take advantage of this effect.
+Henri Poincar, the famous mathematician, used a variation of this idea as a problem-solving technique.17 Faced with a difficult, complicated problem, he would pour everything he knew about the subject onto paper (Ill suggest something similar in a later section; see Section 6.8, Visualize Insight with Mind Maps, on page 181).
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVESTING P ATTERNS You have to sort of defocus a bit.
+Let the stew of facts and problems marinate (well talk more about this in Section 8.2, Defocus to Focus, on page 225).
+Letter Position in Prepared exclusively for Edwin Chen Word Recognition [Raw76] and Report erratum this copy is (P1.0 printing, October 2008) H ARVESTING P ATTERNS Using Martial Arts to Improve Focus June Kim tells us the following story: After beginning martial arts, I recognized that my focus span (the period of time I can keep focusing on something) and control (such as getting focused in a poor environment) has improved.
+Its called Ki-Chun; it has a martial arts aspect as well as tai chi, meditation, and breathing aspects.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVESTING P ATTERNS For instance, why do we use fixed-width fonts?
+Novices will start off doing thisits an easy rule to follow, after all.
+They arent being argumentative for the sake of argument; this sort of pattern matching affects their perception.
+Theres a dark side to pattern matching in code, though.
+The indented code makes it nice and readable, but thats not how the compiler sees it: Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVESTING P ATTERNS only the first statement binds to the else; the indention is misleading.
+certain thought patterns and accustomed ways of thinking.
+The key to creativity and problem solving lies in finding different ways of looking at a problem.
+When faced with a thorny problem, Dave Thomas will often say, Turn that on its head. Thats one mental whack: a way to knock you out of your rut to make you look at a problem from a different point of view.
+A middle name: the. Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVESTING P ATTERNS For instance, sound engineers use a well-known technique when mixing a recording.
+TIP 17 Change your viewpoint to solve the problem.
+In A Whack on the Side of the Head [vO98], Roger von Oech lists many different whacks such as these, including looking at something in reverse, exaggerating an idea, combining disparate ideas, and so on.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVESTING P ATTERNS Necessity is the mother of invention.
+Roger von Oech A great example of insight gained from changing your viewpoint appears in T. H. Whites The Once and Future King [Whi58].
+At one point, young Arthur is learning to fly with the wild geese, flying high above the countryside.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVESTING P ATTERNS Composers Brian Eno and Peter Schmidt came up with a set of 100 oblique strategies21 along these same lines.
+Change nothing and continue consistently.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARVESTING P ATTERNS Change Is Good Its been said that only wet babies like change.
+Think about your morning routine.
+Change the part of your hair.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) G ET I T R IGHT Although using a functional shift will create a brain burst in your readers, it will likely cause agita (that is, dyspepsia of the soul) on the part of ones copy editor.
+Yet these ways of thinking are vital to achieving a balanced, fullthrottle approach to problem solving and creativity.
+Instead, you want to structure your learning and thinking to support an Rmode to L-mode flow.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) G ET I T R IGHT Try This 2 Deliberately vary your morning routine or other consistent habit.
+2 Think of a metaphor, or set of metaphors, that would largely describe your current project (it may be helpful to think in terms of something very tangible).
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I never set out to be weird.
+Frank Zappa Chapter 5 Debug Your Mind Intuition is great, except when its not.
+But in fact, that idealized process is basically never followed, even by expert, high-pressure decision makers.1 Instead, we make decisions and solve problems based on faulty memory and our emotional state at the time, ignoring crucial facts and fixating on irrelevant details because of where and when they occur or whether they are brightly colored.
+The operators removed the bug, dutifully taped it to the log book, and so truly debugged the system.2 This is pretty well-worn territory; see, for example, The Power of Intuition: How to Use Your Gut Feelings to Make Better Decisions at Work [Kle04].
+Prepared exclusively for Edwin Chen C HAPTER 5.
+But we really do have bugs in the way we think fundamental errors in how we process information, make decisions, and evaluate situations.
+Well look at four broad categories of problems:  Cognitive biases: How your thinking can be led astray  Generational affinity: How your peers influence you Process Patterns for Personal Practice: How to Succeed in Development Without Really Trying [WN99].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M EET Y OUR C OGNITIVE B IASES  Personality tendencies: How your personality influences your thoughts  Hardware bugs: How older portions of your brain can override the smarter portions Being aware of these bugs is the first step to mitigating them.
+5.1 Meet Your Cognitive Biases Cognitive biases come in several flavors.
+Wikipedia lists some ninety common cognitive biases.
+Here are some of my personal favorites: Anchoring Just seeing a number will affect how you then predict or decide some quantity.
+Fundamental attribution error We tend to ascribe other peoples behavior to their personality, instead of looking at the situation and the context in which their behavior occurs.
+Self-serving bias This is the tendency to believe that if the project is a success, Im responsible.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M EET Y OUR C OGNITIVE B IASES Need for closure We are not comfortable with doubt and uncertaintyso much so that well go to great lengths to resolve open issues and to remove uncertainty and reach closure.
+Confirmation bias Everyone looks for choice facts to fit your own preconceptions and pet theories.
+Exposure effect We tend to prefer things just because they are familiar.
+Hawthorne effect Researchers have noticed that people have a tendency to change their behaviors when they know they are being studied.
+False memory Its actually pretty easy for your brain to confuse imagined events with real memories.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M EET Y OUR C OGNITIVE B IASES experience, worldview, focus, and so on.
+Nominal fallacy A kind of symbolic reduction problem; this is the idea that labeling a thing means you can explain it or understand it.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M EET Y OUR C OGNITIVE B IASES Named for Plato, these ideal forms supply a sort of universal, commonly understood set of building blocks.
+Think of a kids building block set with cubes, blocks, cones, archways, and The future hides in the columns.
+Cover after cover fanned the ferocious debate over the most important issue of the day: who would win the desktop wars?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M EET Y OUR C OGNITIVE B IASES Correlation vs. Causation Scientific studies can be easily misinterpreted; most of us are not well versed in the science of statistical analysis.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M EET Y OUR C OGNITIVE B IASES Rarely Doesnt Mean Never Astronomically unlikely coincidences happen daily.6 Recently, weve witnessed all manner of devastation from 500-year floods to 100-year storms, but geologically speaking thats just a drop in the bucketthese events are not that rare.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M EET Y OUR C OGNITIVE B IASES Figure 5.2: Project knowledge over time which would become prominent?
+Defer Closure Our need for closure means we are driven to try to eliminate uncertaintyready or not.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M EET Y OUR C OGNITIVE B IASES Resist the pressure.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY You Cant Recall Finally, remember that you dont remember very well.
+Memory is unreliable, and old memories will change over time, which just reassures you that your misconceptions and prejudices are valid.
+Next Actions 2 List the cognitive biases you recognize in yourself.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY Weve looked at cognitive biases so far in a sort of static light.
+You and the rest of your cohort are united by shared memories, common habits, and popular styles, as well as your age and station Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY in life at that time.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY Kids Today Want to see something really scary?
+The Beliot Mindset List (on the Web at http://www.beloit.edu/ ~pubaff/mindset/) tracks interesting facts and observations about the cohort entering college in any given year.
+GI generation, 19011924 All-American, get-it-done builders Silent generation, 19251942 Gray-flannel conformists Boom generation, 19431960 Moralistic arbiters Generation X, 19611981 Free agents Millennial generation, 19822005 Loyal, nonentrepreneurial Homeland generation, 2005???
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY The GI Generation, 19011924 This generation produced the first Miss America and propagated the idea of the all-American athlete.
+The Silent Generation, 1925 1942 Next up, the gray-flannel conformists.
+The Baby Boom Generation, 1943 1960 Ah, the Baby Boomers.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY Generation X, 19611981 One of the best descriptions Ive read of Gen X described them as being raised Gen X is the greatest by wolves. These are free agents, with entrepreneurial an inherent distrust of institutions.
+Millennial Generation, 1982 2005 In this generation, the pendulum swings away from individualism toward greater team-based work; theres a decrease in risky behaviors and a noticeably less edgy approach than their Gen X or Boomer predecessors.
+Even though it was early in my Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY career, I had significant skills in Unix that my peers did not, and so this fellow sawand adopteda kindred spirit.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY Technology and Generations A few years ago, a babysitter we had hired gazed in wonder at our kitchen phone.
+Here are the four generational archetypes and their dominant characteristics:  Prophet: Vision, values  Nomad: Liberty, survival, honor  Hero: Community, affluence  Artist: Pluralism, expertise, due process Their research explores how each archetypical generation can create Archetypes create the next: archetypes create opposing opposing archetypes.
+If you can actually say that three times fast, try unique New York. Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY Figure 5.3: Howe/Strauss generational archetypes According to the Howe and Strauss model, I am among the eldest of Generation X, on the cusp of the Boomers.14 I tend to identify with the theoretical Gen X characteristics, especially survivalism, pragmatism, and realism.
+Context remains king; sometimes it may be more appropriate to stick to your principles regardless of consequences, as a Boomer might.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R ECOGNIZE Y OUR G ENERATIONAL A FFINITY it is clearly better to take a pragmatic approach, as an X-er.
+2 Think about the history of software development methodologies.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C ODIFYING Y OUR P ERSONALITY T ENDENCIES 5.3 Codifying Your Personality Tendencies Hell is other people (Lenfer, cest les autres).
+Jean Paul Sartre Despite the influence of the fundamental attribution error we saw earlier, your own personality does affect your values and your perceptions, in addition to your generational affinities.
+The Myers Briggs Type Indicator (MBTI) is a popular construct theory that classifies basic personality types.
+Its based on the work of Carl Jung and categorizes your tendencies along four independent axes.15 According to the MBTI, you fall somewhere on the line for each dimension, and you get a letter depending on which way you lean.
+These are the axes:  Extravert (E) vs. Introvert (I): Inward or outward orientation.
+Sensing (S) vs. Intuition (N): How you obtain information.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C ODIFYING Y OUR P ERSONALITY T ENDENCIES Not All Rewards Are Welcome Most companies reward teams with praise and recognition that isnt necessarily suited to all personality types.
+Thinking (T) vs.
+Feeling (F): How you make decisions.
+Thinking people make decisions based on the rules.
+Feeling people evaluate the personal and emotional impact, in addition to the applicable rules.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C ODIFYING Y OUR P ERSONALITY T ENDENCIES Depending on which side of the fence you fall on any axis, you get that letter.
+Its probably most important to realize this: when other people react differently than you would in a given situation, they arent crazy, lazy, or just plain difficult.
+Think about that when constructing an argument.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E XPOSING H ARDWARE B UGS Next Actions 2 Take a personality test.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E XPOSING H ARDWARE B UGS Whales stickers could actually prove more dangerous than one Right to Bear Arms sticker, for example.
+In 1989, Dr. Albert Bernstein originally published Dinosaur Brains: Dealing with All Those Impossible People at Work [Ber96], a popular, accessible expos of the low-level wiring in our brains.
+Lizard Logic Dr. Bernstein describes the following aspects of the reptilian approach to dealing with lifes challenges.
+Dont think or plan; just follow your impulses and focus on whats most exciting rather than whats most important.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E XPOSING H ARDWARE B UGS If it hurts, hiss Dont bother to fix the problem, but spend all your energy fixing the blame on someone instead.
+Most of the time, thats a positive benefit, especially when learning from a mentor or other exemplar whos already proficient in that skill.
+Thinking takes time; these actions and reactions work more quickly than that, and with less effort.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E XPOSING H ARDWARE B UGS A Heaven or a Hell As well see later in Section 7.6, Imagination Overrides Senses, on page 212, you can physically rewire your brain depending on the thoughts you think.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) N OW I D ON  T K NOW W HAT TO T HINK You know what it feels like to have that rush of intense feeling come upwhen the boss sends you a snippy email or that rude driver cuts you off to exit without signaling.
+Theres some evidence that simply smiling can be as effective as antidepressant medications.19 5.5 Now I Dont Know What to Think The fact that we live at the bottom of a deep gravity well, on the surface of a gas-covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) N OW I D ON  T K NOW W HAT TO T HINK Remember back in the discussion on learning, when I said you want to create an R-mode to L-mode flow?
+That is, you start off holistically and experientially and then shift to the more routine drills-and-skills to productize the learning.
+Do what you need to do to prove that your idea is a good one, because your intuition may have been wrong.20 Feedback is the key to agile software development for precisely this reason: software development depends on people.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) N OW I D ON  T K NOW W HAT TO T HINK To help get a bigger picture perspective and test your understanding and mental How do you know?
+See Tools of Critical Thinking: Metathoughts for Psychology [Lev97] for more.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) N OW I D ON  T K NOW W HAT TO T HINK the global apocalypse was scheduled for tomorrow (live coverage at 10 a.m. Eastern/7 a.m. Mountain and Pacific).
+Henri Poincar Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) The mind is not a vessel to be filled, but a fire to be kindled.
+Mestrius Plutarchos (Plutarch), 45 -125 A.D. Chapter 6 Learn Deliberately At our current state of technology and culture, your ability to learn may be your most important element of success.
+In this chapter, were going to start off with a look at what learning is really all about, learn why its suddenly so important, and explore techniques to help you learn more deliberately.
+Well begin by covering how to manage goals and plan your learning over time and also focus on keeping L-mode and R-mode in balance and working effectively with each other.
+With these ideas as a foundation, well talk about some specific techniques to help accelerate your learning, including reading techniques and mind maps, to help you work better with the material youre studying.
+Well also look at some issues of learning styles and personality that might have an effect as well.
+We can accelerate your learning, but first we have to talk about what learning is.
+6.1 What Learning Is...and Isnt Many HR departments havent figured this out yet, but in reality, its less important to know Java, Ruby, .NET, or the iPhone SDK.
+The technology itself isnt as important; its the constant learning that counts.
+Information was passed along in an oral tradition, Prepared exclusively for Edwin Chen W HAT L EARNING I S ... AND I SN  T and until recently, one could provide for ones family with minimal formal education or training.
+Its quite possible that the last person to know everything was British philosopher John Stuart Millwho died in 1873.1 We have a lot to learn, and we have to keep learning as we go.
+But the very word learning may have some unpleasant baggage, conjuring up images of youthful chalk dust torture, the mind-numbing tedium of corporatemandated copy machine training, or similarly ersatz educational events.
+Education comes from the Latin word educare, which literally means led out, in the sense of being drawn forth.
+Cited in Influence: Science and Practice [Cia01].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HAT L EARNING I S ... AND I SN  T Figure 6.1: Sheep dip: alien, toxic, and temporary in an alien environment, devoid of any connection to their day-today world, and then proclaim them to be Java developers, .NET developers, or what have you.
+This naive approach doesnt work, for several reasons:  Learning isnt done to you; its something you do.
+A random approach, without goals and feedback, tends to give random results.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HAT L EARNING I S ... AND I SN  T Ignite Your Own Fire We must encourage [each other]once we have grasped the basic pointsto interconnecting everything else on our own, to use memory to guide our original thinking, and to accept what someone else says as a starting point, a seed to be nourished and grow.
+Suppose someone were to go and ask his neighbors for fire and find a substantial blaze there, and just stay there continually warming himself: that is no different from someone who goes to someone else to get to some of his rationality, and fails to realize that he ought to ignite his own flame, his own intellect, but is happy to sit entranced by the lecture, and the words trigger only associative thinking and bring, as it were, only a flush to his cheeks and a glow to his limbs; but he has not dispelled or dispersed, in the warm light of philosophy, the internal dank gloom of his mind. Plutarch, Greek historian, biographer, and essayist As Plutarch pointed out in the epigraph that opened this chapter, the mind is not a vessel to be filled but a fire to be kindledyour own fire.
+Three Factors of Success in Relating Work and Education [VF77], and Eraut, M. Identifying the Knowledge which Underpins Performance in Knowledge and Competence: Current Issues in Education and Training [BW90].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T ARGET SMAR T O BJECTIVES knowledge is demonstrably not the important part.
+In the rest of this chapter, well look at how to make learning more effective in the real world.
+Well see how to accelerate learning by approaching it more methodically and by using the best tools available for the job at hand.
+To start, lets take a closer look at how to manage goals and planning by using SMART goals and the Pragmatic Investment Plan.
+Goals are great things, and you may have many of them: lose weight, find a better job, move to a bigger house (or a smaller one), write that novel, learn to play the electric guitar, write a killer Rails application, or learn all about Erlang.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T ARGET SMAR T O BJECTIVES How much weight do you need to lose?
+We tend to be a bit fuzzy on the terms goals and objectives.
+Originated in The Practice of Management [Dru54] and widely used since then.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T ARGET SMAR T O BJECTIVES concrete and specificusing actual numbers.
+Writing a novel is like driving a car at night.
+These are fine goals and objectives, but they arent realistic.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T ARGET SMAR T O BJECTIVES If not, then it isnt relevant.
+Time-Boxed This is perhaps the most important one.
+Objectives in a Larger Context With apologies to John Donne,4 no objective is an island, entire of itself.
+Your objectives have to make sense in the larger context, which might include the following:  Family  Business  Financial  Community  Environment This extends the ideas of attainability and relevance.
+Meditation XVII, 1623 A.D.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T ARGET SMAR T O BJECTIVES Goals, Objectives, and Action Plans So, youve decided to learn something.
+I like to take my goals and develop smallsometimes tiny objectives to create an action plan so I can accomplish that goal.
+Now, since Im in charge of my own learning, I do the same.
+The more small objectives you have, the more easily youll see where you are in relation to your goal. Johanna Rothman Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C REATE A P RAGMATIC I NVESTMENT P LAN So in addition to looking at goals through a local lens, consider the impact they may have in the larger context of your work and life.
+Next Actions 2 Before reading on, make a list of three of your most important goals.
+For several years, Dave Thomas and I have presented the Pragmatic Investment Plan as part of our consulting practice, and Im including a shortened version of it here for you.
+Too often, most of us slip into a kind of default learning schedule: you might take some time to learn a new language when you have a free moment or to look at that new library in your spare time.
+Unfortunately, relegating learning activities to your free time is a recipe for failure.
+The expression to make time for is a bit of a misnomer; time cant be Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C REATE A P RAGMATIC I NVESTMENT P LAN created or destroyed.
+By being deliberate about your learning, by allocating appropriate time, and by using that time wisely, you can be much more efficient in your learning.
+For instance:  Now (whats the next action you can take)  Goals for next year  Goals for five years out The next action you can take might be something such as downloading a product or buying a book.
+Goals for next year might be specific indicators of proficiency (being able to do xyz in a given language or tool) or completing a specific project.
+Goals for five years out might be wider ranging and include things such as speaking at a conference or writing articles or a book.
+And remember what General Eisenhower advised us: the planning is far more important than the plan.
+PIP: Diversify When choosing areas to invest in, you need to make a conscious effort to diversify your attentiondont have all your eggs in one Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C REATE A P RAGMATIC I NVESTMENT P LAN basket.
+For instance, learning a popular technology such as .NET is fairly low riskmany legions of programmers are doing it, so there is plenty of support, published books, courses, job openings, and so on.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C REATE A P RAGMATIC I NVESTMENT P LAN PIP: Active, Not Passive, Investment Another main topic from The Pragmatic Programmer is the idea of feedback.
+For example, if I wanted to learn the FXRuby GUI toolkit, Id be sure to get the book first, download the components I need, and Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SE Y OUR P RIMARY L EARNING M ODE Figure 6.2: Obligatory diagram for visual learners have an idea for something I want to write using FXRuby before sitting down and working with it in earnest.
+TIP 26 Plan your investment in learning deliberately.
+6.4 Use Your Primary Learning Mode Now that you have a plan in place, well start talking about how to implement your deliberate learning.
+Because everyone is wired differently, some ways of learning will be more effective for you than Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SE Y OUR P RIMARY L EARNING M ODE others, so you need to figure out the most efficient way for you to assimilate new information.
+Each list of words is associated with one of the major learning modes.6 How do you describe a learning problem?
+Listen as other folks use these words; its a strong indication of their preferred learning style.
+Multiple Intelligences As you can see with these different learning modes, not everyone can learn best in the same manner; we are all wired a little 6.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SE Y OUR P RIMARY L EARNING M ODE Visual admire appear attractive blurred bright clear cloudy colorful conceal dark dawn disappear display envision exhibit expose eyed faced flash focus foggy foresee form gaze glance glare gleam glow graphic hazy illuminate imagine obscure observe look peer perspective picture preview reflect watch reveal scan see shiny show sight sightsee sparkle spy staring strobe surface twinkle vanish veil view visualize view vivid Verbal Kinesthetic announce answer argue asked attune call chatter cheer complain crescendo cry deaf discuss echo explain expression growl grumble gurgling harmonize harsh hear hum inquire insult lecture listen loud melodious mention mumble noisy outspoken overtones question quiet recite reply request resonance sang shout shriek shrill sighs silences silent sound(s) stammer talk tell translate unhearing utter vocal yell angle beat bends bounce break brush burdened carry clumsy comfortable concrete crouching crumble exciting feel firm fits flop force grab grapple grasps grinds hard hold hug hurt impression irritate mushy movement pinch plush pressure pull rub run scramble scrape shaky skip slip smooth soft solid spike stuffed suffer sweep thick touch trample tremble twist unbudging unfeeling warm wash weigh work Figure 6.3: Representative system predicates Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SE Y OUR P RIMARY L EARNING M ODE differently.
+He cites subjects that do very well at test taking but arent as adept at problem solving in the real world and, conversely, folks who are great problem solvers but poor test takers.
+Frames of Mind: The Theory of Multiple Intelligences [Gar93].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SE Y OUR P RIMARY L EARNING M ODE Visual/Spatial Using diagrams/plans, sketching, painting, manipulating images Musical Playing music, recognizing sounds, rhythms, patterns, remembering slogans and verses Interpersonal Empathic; senses feelings, intentions, and motivations of others Intrapersonal Self-reflective; works from an understanding of inner feelings, dreams, and relations with others Other researchers proposed additional intelligences as time went on, but even with this original set you can begin to appreciate some interesting abilities.
+The important thing to recognize is that these differences mean that some ways of learning are more effective for you, and others less so.
+And these differences arent necessarily cast in stone; for instance, you may find that practicing the techniques in this book changes the effectiveness of different ways of learning for you.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SE Y OUR P RIMARY L EARNING M ODE Personality Types If you google around, youll find various online surveys and quizzes that will help you identify what sort of learner you are (or at least, where your tendencies lie).
+In fact, some methods of determining your learning style tie in to your personality, using the dimensions of personality popularized by Carl Jung and later enshrined in the Myers Briggs Type Indicator (as we saw in Section 5.3, Codifying Your Personality Tendencies, on page 144).
+Your personality can contribute to your learning style as well.
+An extravert might want to talk things through with a group when learning a new skill.
+Experiment with different learning modes.
+Next Actions 2 Think about the intelligences youre strongest at: Which ones do you use most on the job?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W ORK T OGETHER , S TUDY T OGETHER 2 And which ones do you use for any hobbies?
+Ask for a wide variety of topics: some techImproving Quality and Productivity in Training: A New Model for the High-Tech Learning Environment [RW98].
+For even more on this subject, see Knowledge Hydrant: A Pattern Language for Study Groups [Ker99].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W ORK T OGETHER , S TUDY T OGETHER Keys to Adult Learning Adult learners are a different breed from either children or college students.
+Malcolm Knowles, in The Adult Learner: a Neglected Species [Kno90], identifies these characteristics of the adult learner and their learning environment:  The adult learner is motivated to learn if learning will satisfy their own interests and needs.
+They dont have to be expert in the topic but do need to be passionate about the topic and about learning it.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) U SE E NHANCED L EARNING T ECHNIQUES In the meeting itself, plan on spending the first half hour eating, socializing, and in informal conversation.
+6.6 Use Enhanced Learning Techniques Now that weve established a good framework for deliberate learning, we need to look at learning itself.
+Well be looking at the following:  Better ways to deliberately read and summarize written material  Using mind maps to explore and find patterns and relationships  Learning by teaching Any one of these techniques, by itself, can be a great help.
+Taken together, they can turn you into an efficient learning machine.
+But everyone is different, and everyones best method of learning is different.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R EAD D ELIBERATELY WITH SQ3R 6.7 Read Deliberately with SQ3R Its an unfortunate truth that written instructions are generally considered to be Written instruction is the the least efficient.
+But reading is the least effective means of learning, compared to any sort of experiential learning.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R EAD D ELIBERATELY WITH SQ3R The first helpful aspect of this technique is that it is deliberate.
+You want to get a good overview of the book without delving into any details just yet.
+As you go along, recite, recall, and rephrase the most important bits from the book in your own words.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R EAD D ELIBERATELY WITH SQ3R An Example For example, suppose Im reading a book on a new programming languageD, Erlang, or Ruby, for example.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) R EAD D ELIBERATELY WITH SQ3R Test-Driven Learning Reading the same material over and over, or studying the same notes over and over, doesnt help you remember the material.
+Repeatedly testing yourself by trying to recall the material over and over works much better. Deliberate, repeated attempts at retrieval consolidate learning and strengthen the connections in your brain.
+You might think of it as test-driven learning.
+Piotr Wozniak developed an algorithm to take advantage of the spacing effect, implemented in the commercial product SuperMemo (an open source implementation is available at http://www.mnemosyne-proj.org/).
+The Critical Importance of Retrieval for Learning [KR08].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) V ISUALIZE I NSIGHT WITH M IND M APS 6.8 Visualize Insight with Mind Maps A mind map is a kind of a diagram that shows topics and how they are connected.
+Invented by British author Tony Buzan in The Mind Map Book: How to Use Radiant Thinking to Maximize Your Brains Untapped Potential [BB96], similar styles of diagrams have been around since at least the third century.12 A modern mind map is a sort of two-dimensional, organic, and holistic outline.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) V ISUALIZE I NSIGHT WITH M IND M APS Figure 6.4: Original Dreyfus mind mapmessy, organic When creating a mind map, avoid filling in the elements in a clockwise mannerthats just an outline going in circles.13 When I give lectures on this topic, I usually stop here and ask the audience whether they have ever heard of, or used, mind maps.
+Spatial cueing conveys information to you in a way that linear words or an outline cant; the addition of color and symbols adds to the richness of the representation.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) V ISUALIZE I NSIGHT WITH M IND M APS an insight to the mind map, you are faced with the question, where does this belong?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) V ISUALIZE I NSIGHT WITH M IND M APS Figure 6.5: Software tool mind mapclean and hyperlinked, but useful?
+Take a Writing is as important as look at Figure 6.5.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) V ISUALIZE I NSIGHT WITH M IND M APS TIP 30 Take notes with both R-mode and L-mode.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) V ISUALIZE I NSIGHT WITH M IND M APS Use words as titles; you dont want any lengthy prose or even full sentences.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) V ISUALIZE I NSIGHT WITH M IND M APS Figure 6.6: Affinity grouping in progress Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARNESS THE R EAL P OWER OF D OCUMENTING Since the sticky notes let you detach and reapply, you can reposition the notes as needed.
+6.9 Harness the Real Power of Documenting One of the tenets of agile software development is to avoid needless documentation.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H ARNESS THE R EAL P OWER OF D OCUMENTING but they use a pragmatic filter to make sure the investment in creating any documentation is really worth the effort.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN BY T EACHING As I mentioned earlier (in Section 6.8, Visualize Insight with Mind Maps, on page 181), taking notes seems to be very important, even if you never read them again.
+Visualizing the sequences and maneuvers can help groove the mind (well talk more about this shortly in Section 7.6, Imagination Overrides Senses, on page 212).
+Screencasts are really useful to convey something dynamic: showing a user how to perform a task using your software or modeling the life cycle of an object through a complicated set of processes.
+Of course, another powerful learning technique lies in teaching others.
+6.10 Learn by Teaching One of the simplest and most effective techniques to learn something is to try to teach it.
+Teaching in this context doesnt necessarily mean grabbing the chalk and heading into the classroom; there are several different ways to go about it.
+You can begin with Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN BY T EACHING simple verbal rubber ducking. In The Pragmatic Programmer, we described the following scenario.
+As I mentioned earlier, constant retrieval is very effective for learning.
+Having to go back to the well while preparing to teach, and Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) T AKE I T TO THE S TREETS while having to think on your feet to respond to questions, all helps strengthen your neural connections.
+6.11 Take It to the Streets So far, weve seen the Dreyfus model and seen what it means to be an expert.
+In this chapter, weve taken a good look at what learning is and what it is not.
+Weve looked at using SMART objectives and a Pragmatic Investment Plan and some specific techniques including reading techniques, mind maps, and learning by teaching.
+But all this learning is only part of the equation; next we need to look at putting learning into action and see the best ways to gain experience.
+In the meanwhile, its time to begin to take it to the streetsto leave the relatively safe cloisters of the cubicle and begin to interact with the world to advance your personal learning.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) We should be careful to get out of an experience only the wisdom that is in it and stop there; lest we be like the cat that sits on a hot stove-lid; he will never sit on a hot stove-lid againand that is well; but also he will never sit on a cold one anymore.
+Mark Twain Chapter 7 Gain Experience Gaining experience is key to learning and growthwe learn best by doing.
+That is, well take a look at some key aspects to real-world learning and then see what you need to create an efficient learning environment for yourself.
+Prepared exclusively for Edwin Chen P LAY IN O RDER TO L EARN We seem to have a cultural tendency to put the cart before the horse: you struggle to shovel in information first and then hope to maybe use it later.
+Papert is perhaps the leading expert on using technology to create new ways of learning.1 He invented the programming language Logo: a toy that children could play with and, in the playing, learn deep mathematical concepts.
+Papert worked with world-renowned Swiss psychologist Jean Piaget and also believed that real learningthe learning that sticks with youcomes from experience and cognition, not from explicit teaching or rote practice.
+Thats an important point: structuring learning so that you can build on top of existing experience.
+Were not really designed to just receive information but rather to explore and build mental models on our Papert and Marvin Minsky founded the Artificial Intelligence Lab at MIT; he also was one of the founders of the famed MIT Media Lab.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) P LAY IN O RDER TO L EARN own.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) P LAY IN O RDER TO L EARN Smart People and Dumb People I think most people are a lot more capable than they give themselves credit for.
+But regardless of any specific skill deficiencies, in general we are amazing learning machines.
+Consider how much a young child has to absorb in a short space of time: language, motor skills, social interaction, the effectiveness of a well-timed tantrum, and so on.
+Its hard fun: not so hard as to be insurmountable (and so not engaging) but challenging enough to maintain interest and progress at solving the problem domain.
+Working with new material or solving a problem in a playful manner makes it more enjoyable, but it also makes it easier to learn.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EVERAGE E XISTING K NOWLEDGE For example, you could create a board game that simulates visitors to a website.
+I mentioned using Lego blocks for design back in Chapter 4, Get in Your Right Mind, on page 85 for the same reason: the idea is to engage as much of your entire being in the learning process: verbal, visual, musical, numerical, gross-motor body movement, fine-motor finger movement, and so on.
+7.2 Leverage Existing Knowledge Papert was careful to allow students to leverage existing knowledge in skills in their learning of new skills.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EVERAGE E XISTING K NOWLEDGE Problem Solving with George Plya To solve a problem, ask yourself these questions:  What are the unknown aspects?
+George Plya wrote a very influential book on concrete steps to problem solving that covers these and other classic techniques (How to Solve It: A New Aspect of Mathematical Method [PC85]; see the sidebar on the current page for a brief synopsis).
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E MBED F AILING IN P RACTICE The danger lies in not completing the transition and sticking with the hybridized approach instead of fully embracing the new skill.
+7.3 Embed Failing in Practice A mans errors are his portals of discovery.
+James Joyce, 1882 1941 Debugging is a part of lifenot just software.
+Debugging means solving problems, generally of our own making.
+The value lies in learning from the error, which Papert sums up nicely: Errors benefit us because they lead us to study what happened, to understand what went wrong, and, through understanding, to fix it. Perversely enough, failure is critical to successnot just any random failure; you need well-managed failure.
+You need the support Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E MBED F AILING IN P RACTICE of a good learning environment so you can more easily gain and apply experience from both your failures and your successes.
+Exploration is playing in unfamiliar territory.
+An efficient, supportive learning environment should allow you to do three things, safely: explore, invent, and apply.3 TIP 35 Explore, invent, and apply in your environmentsafely.
+Create an Exploratory Environment However, you cant explore, invent, or apply ideas within the environment of practice (on the job) until you make it safe for yourself, for your team, and for your organization.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E MBED F AILING IN P RACTICE That wouldnt be safe; a live and unsuspecting patient is not the right context for experimentation.
+But that alone is not enough to create a positive learning environment for you.
+Reproduce any work product as of any time Backtracking to a previous version of the source code isnt quite enough; you probably need to actually run the program (or work with any derivative work product) as of any point in history.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E MBED F AILING IN P RACTICE In software development, its pretty simple to set up an infrastructure to address these needs.
+Its what we call the Starter Kit: version control, unit testing, and project automation.4  Version control stores every version of every file you work with.
+Unit testing provides you with a fine-grained set of regression tests.
+Automation ties it all together and ensures that the trivial mechanics are taken care of in a reliable, repeatable manner.7 This Starter Kit gives you the advantage of freedom to experiment, with comparatively little risk.
+A supporting environment can make or break learning for anyone.
+Thich Nhat Hahn In fact, Dave Thomas and I felt that the idea of the Starter Kit was so important that those were the very first books we published as the Pragmatic Bookshelf.
+See Pragmatic Project Automation.
+A Practical Guide to Successful Software Projects [RG05] for a good overview of these topics in a team context.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN A BOUT THE I NNER G AME Next Actions 2 If your software project isnt set up with a safety net (version control, unit testing, and automation), you need to get that implemented right away.
+2 Your personal learning projects need to have the same safety netwhether you are writing code, learning to paint, or exploring a colossal cave.
+This second type of failure doesnt produce any learning: it keeps us from learning in the first place, or it shuts down our learning in mid-experience.
+Understanding the inner game will help you eliminate interference that gets in the way of learning, and it emphasizes the right kind of feedback to help you learn.
+The Inner Game series helps further the point of learning from your own experience.
+In this series of books, Timothy Gallwey and other authors differentiate the obvious, outer game that you are engaged in and explore the subtleties of the more critical inner game.
+A big part of improving learning comes from Gallweys idea of reducing failure-inducing interference and using feedback.
+In a famous example, the author takes an older subject, a woman in her late fifties or so, who has never played tennis or indeed Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN A BOUT THE I NNER G AME engaged in any significant physical activity for the past twenty years.
+But Tim Gallwey had a better ideaone that didnt involve any lengthy lectures or extended demonstrations.
+First, she was to just watch the ball and say out loud Bounce and Hit as Gallwey hit the ball.
+First, she was to just hum a phrase while watching Gallwey serve in order to get the rhythm of the motion.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN A BOUT THE I NNER G AME Cultivate Situational Feedback Situational feedback is the primary inner game technique that allows you to learn more efficiently by eliminating any interference.
+Its nonverbal learning, for a nonverbal skill, with a tight feedback loop and short feedback gap.9 Consider an example from skiing.
+Awareness is an important tool in becoming more than a novice.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN A BOUT THE I NNER G AME The author had been teaching in a manner similar to the ski instructor: hold your elbow this way, your head like this, lean that way, now play comfortably.
+Going Beyond Tennis Now you may have noticed that these examples are largely in the kinesthetic domainthey involve muscle memory and physical skills.
+Performing music, for instance, has been shown by functional MRI scans to activate virtually every center in the brain.10 From operating the instrument to reading the notes, listening to the other musicians, following the abstract principles of chord progression and such, both L-mode and R-mode are active and cooperating along with lower-level muscle memory.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN A BOUT THE I NNER G AME a string bass, the lessons can be applied to software development and other endeavors as well.
+Thinking the test will surely pass, you click the button.
+Think of it like the epicenter of an earthquake.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) P RESSURE K ILLS C OGNITION And its not just about debugging.
+7.5 Pressure Kills Cognition The Inner Game series sums up this idea with the phrase, Trying fails, awareness cures. That is, consciously trying generally doesnt work as well as simple awareness.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) P RESSURE K ILLS C OGNITION Pressure Hangover You might disagree with this notion of pressure.
+Cited in The 6 Myths of Creativity [Bre97].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) P RESSURE K ILLS C OGNITION There goes your search engine, your creativity, and your ingenuity.
+A couple of us attended a problem-solving workshop by Jerry Weinberg.13 One of the exercises involved a simulation of a manufacturing operation.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) P RESSURE K ILLS C OGNITION perform at their best.
+Think about the agile practice of unit testing.
+No learning.
+What can Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I MAGINATION O VERRIDES S ENSES you do to increase your chances of success in challenging environments such as these?
+7.6 Imagination Overrides Senses The aptly named inner game really can be played inside.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I MAGINATION O VERRIDES S ENSES Figure 7.1: All input is created equal.
+They still insisted, But the eggs are white. Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I MAGINATION O VERRIDES S ENSES Much of perception is based on prediction,15 and prediction is based on context and past experience, so much so that current, real-time input takes a backseat.
+Perception is based on prediction.
+This is a major observation in On Intelligence [Haw04].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I MAGINATION O VERRIDES S ENSES In other words, by surrounding yourself with highly skilled people, you will increase your own skill level.
+Some of that is from observation and application of their practices and approaches.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN I T LIKE AN E XPER T Swimmers do this by being attached to a rope and pulled through the water at high speed.20 Before a swimmer can achieve that sort of speed on their own, they get to experience what it will feel like.
+Experience using scaffolding.
+7.7 Learn It like an Expert You should feel youre in a better position to take control of your own learning experiences now.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) L EARN I T LIKE AN E XPER T In this chapter, weve looked at the value of playing to facilitate learning and the importance of actively embedding failure as an essential part of practice.
+We saw the importantand by now familiarlessons from the inner game and the tricks your brain can play on you, for better or worse.
+Dont forget that as you gain experience, youll continue to transition through the stages of the Dreyfus model.
+Memory is far from inviolate; your increasing expertise will steadily add to the filters and pattern matching you employ.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) A good question is never answered.
+John Anthony Ciardi Chapter 8 Manage Focus I dont need to tell you that we live in information-rich times.
+In this part of the book, we are going to look at how to better manage your mind along these three axes:  Increasing focus and attention  Managing your knowledge  Optimizing your current context Attention is the act of focusing in on an area of interest.
+Prepared exclusively for Edwin Chen I NCREASE F OCUS AND A TTENTION Sometimes we use the words information and knowledge interchangeably, but they arent the same thing.
+Information is raw data in a given context.
+Knowledge imparts meaning to that information.
+Context, beyond the usage weve seen so far, is the set of stuff you are focused on at the moment.
+Think of it as the working set of information that you are dealing with at a given point in time.
+8.1 Increase Focus and Attention While working on a presentation about pragmatic programming back in 2000, I came across a remarkably odd news story.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I NCREASE F OCUS AND A TTENTION If you can miss obvious thingslike a knife sticking out of your neckjust think what else might be going on around you that has escaped your attention.
+Attention Deficit Your attention is in short supply.
+Paul Graham, in his book Hackers and Painters: Big Ideas from the Computer Age [Gra04], suggests that a navy pilot can land a 40,000 lb aircraft at 140mph on a pitching Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I NCREASE F OCUS AND A TTENTION carrier deck at night more safely than the average teenager can cut a bagel. Having been a teenager once, I can easily recall what was on my mind as I stood patiently in front of the toaster.
+Relaxed, Concentrated Focus Heres a simple thing to try.
+Focus on now.
+Learning to Pay Attention [Jon07].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I NCREASE F OCUS AND A TTENTION training.
+This is known as Vipassana meditation.
+Meditation is a common theme, even if its not explicitly stated as such.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I NCREASE F OCUS AND A TTENTION In this style of meditation, all you have to do is pay attention to your breath.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) I NCREASE F OCUS AND A TTENTION After spending some time like this, you can try deliberately controlling your breath.
+Meditation might sound trivial.
+The Experience of Transcendental Meditation in Middle School Students: A Qualitative Report [RB06].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D EFOCUS TO F OCUS Next Actions 2 Experiment with meditation on a regular basis.
+8.2 Defocus to Focus Some problems yield only to a less conscious approach.
+Creativity does not function on a time clock and does not generally yield results when pressured.
+This kind of critical thinking time is generally unrecognized and unPrepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D EFOCUS TO F OCUS rewarded in most corporations.
+In Consciousness Explained [Den93], Dr. Daniel Dennett proposes an interesting model of consciousness.
+Think of the multiple drafts like different clouds of lightning bugs scattered throughout the brain.6 Most of the different groups/clouds flash indiscriminately; a few flash together as a whole cloud.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) D EFOCUS TO F OCUS Procrastination vs. Marinating How can you tell the difference between stewing thoughts in a marinade vs. time-sucking procrastination?
+He continues, This stream of contents is only rather like a narrative because of its multiplicity; at any point in time there are multiple drafts of narrative fragments at various stages of editing in various places in the brain. This flow from draft to draft creates what we perceive as narrative.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE Y OUR K NOWLEDGE Lets return to the idea of marinating; as hard as it might be to accept, you need time to allow these multiple drafts to ferment, percolate, and develop.
+Have you heard of the consultants Rule of Three?7 In general, if you cant think of three ways a plan can go wrong or think of three different solutions to a problem, then you havent thought it through enough.
+Just as you want to go from R-mode to L-mode to productize learning, you want to work with knowledge in a more deliberate way.
+8.3 Manage Your Knowledge Now its time to work with your ideas, insights, raw information, and knowledge and transform the whole stewed mess into something transcendent.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE Y OUR K NOWLEDGE What are all these topics, and why are they all WrittenFunny?
+Developing Your Exocortex As I said in Section 3.2, Capture Insight 24x7, on page 63, you need to be prepared to capture information anywhere, anytime.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE Y OUR K NOWLEDGE Thomas Jefferson owned somewhere in the neighborhood of 10,000 books in his lifetime.8 Jefferson was an avid reader, and these books ranged on topics from political philosophy to music to agriculture to wine making.
+Your own book collection, your notes, and even your favorite IDE and programming language all form part of your exocortex, which is any mental memory or processing component that resides outside your physical brain.
+As programmers and knowledge workers, we probably rely on the computer to form more of our exocortex than the general population does.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE Y OUR K NOWLEDGE Figure 8.1: Displaying a wiki page You create a new page by first creating a link to it, using a WikiWord.
+A WikiWord is a word formed by jamming together two or more words with initial capital letters and no spaces.
+Once you place a WikiWord on a page, it will automatically become hyperlinked to the wiki page with that name.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE Y OUR K NOWLEDGE Figure 8.2: Editing a wiki page You can use a wiki implemented in your favorite text editora wikiediting mode.
+This gives you WikiWord hyperlinks and syntax coloring or highlights within your editor environment.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE Y OUR K NOWLEDGE The result is a portable wiki-in-my-pocket that is versioned and synchronized with my desktop and my laptop.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE Y OUR K NOWLEDGE Figure 8.3: Wiki notes For example, take a look at the screenshot in Figure 8.3.
+WikiWords, which link to pages of the same name, are highlighted in bluethe same as regular web URLs.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) O PTIMIZE Y OUR C URRENT C ONTEXT The list grew to several hundred items, which was bad.
+And again, you can go off and mind map some of the more interesting bits to gain insight and bring that back to the wiki.
+8.4 Optimize Your Current Context Context, in the sense well talk about it here, is the set of information that is currently loaded into your short-term memory related to the task at hand.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) O PTIMIZE Y OUR C URRENT C ONTEXT Context Switching How much disposable attention do you have?10 That is, how many things are currently demanding your attention, and how many total things can you possibly pay attention to at any given point in time?
+Multitasking takes a heavy toll on productivity.
+See Flow: The Psychology of Optimal Experience [Csi91].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) O PTIMIZE Y OUR C URRENT C ONTEXT A Problem of Organization You may have already experienced this problem with email: if you keep separate folders for various topics, what do you do with an email that cuts across the categories you use?
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) O PTIMIZE Y OUR C URRENT C ONTEXT Figure 8.4: Relative IQ point loss This makes me wonder if companies should focus less on mandatory drug testing and perhaps instead concentrate on mandatory email-habit testing.13 But of course its not just about email and drugs; drivers conversing on cell phones cannot respond quickly to highway hazards, either.
+Avoiding Distractions In an episode of All Things Considered on NPR, Paul Ford extolled the benefits of a spartan user interface.14 Consider an early word processor such as WordStar or WordPerfect on an early text-based 13.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) O PTIMIZE Y OUR C URRENT C ONTEXT Deliberate Switching One way to help fight this is to approach context switching more deliberately (notice a trend here?).
+Take a couple of deep breaths (well talk more about the importance of breathing and email apnea in just a bit).
+For instance, on the Mac you can use Think!15 to black out every application other than the one that has focus, or DeskTopple,16 which can hide your desktop icons, replace your wallpaper, and autohide application windows on a timer.
+Single-Task Interfaces Under Mac OS X, you can use the utility QuickSilver to set up globally accessible keystroke-based commands.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) O PTIMIZE Y OUR C URRENT C ONTEXT For instance, I have it rigged so that with just a few keystrokes I can send a one-line email message to someone in my address book.
+Context blown.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE I NTERRUPTIONS D ELIBERATELY He supplies a methodology and a lot of tips and tricks (who knew a labeler could be so much fun) to help you be more efficient at plowing through tasks.
+Dont keep lists in your head: Allen spots another important aspect of maintaining an exocortex.
+Instead, keep to-do lists and such somewhere in your exocortexon a sticky note, in a wiki, in a calendaring or dedicated to-do list tool, or in something similar.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE I NTERRUPTIONS D ELIBERATELY Figure 8.5: A maze of twisty little passages, all alike The Net offers the widest assortment of distraction in history.
+Set up certain Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE I NTERRUPTIONS D ELIBERATELY Cant All Be Winners Not every day will be a productive day.
+See Practices of an Agile Developer: Working in the Real World [SH06].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE I NTERRUPTIONS D ELIBERATELY Beware of Email Apnea In February 2008, Linda Stone coined the term email apnea.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE I NTERRUPTIONS D ELIBERATELY Second, bump up the polling interval.
+Context-Friendly Breaks So, youve been plugging away for awhile, and you feel youre getting stuck or bored or just need a break.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE I NTERRUPTIONS D ELIBERATELY of thought and a minimum of twenty to thirty minutes lost productivity once you try to get back into it, if you even get a chance to get back to it today.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) M ANAGE I NTERRUPTIONS D ELIBERATELY Put a sign on your cube during a debugging session, or close the door if you have one.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) K EEP A B IG E NOUGH C ONTEXT 8.6 Keep a Big Enough Context The more you can keep information in context, the better.
+Even a small action like using Alt-Tab to switch between windows that arent all visible takes time and requires short-term memory and energy.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) K EEP A B IG E NOUGH C ONTEXT Task vs. Topic Think about the applications you write.
+Maintain Task Focus With all that screen real estate, its easy to open a bazillion applications and once again get lost in the clutter.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) K EEP A B IG E NOUGH C ONTEXT Figure 8.6: Mac OS X Spaces Just as an example, here is how I usually have my workspaces set up now (see Figure 8.6): Communications: I use this workspace for any communication, scheduling, or planning-related task, with the following windows.
+Email  To-do list  Chat  Calendar  Project status dashboardscurrent author status, book production schedule, and so on Writing: When Im writing, I dont want to be distracted by email and such, so I keep this workspace populated solely with writing tools.
+TextMate (editor)  Dictionary/Thesaurus  OmniGraffle (diagram editor)  Acrobat Reader (for proofing) Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) K EEP A B IG E NOUGH C ONTEXT Coding: This is the same idea as writing but with different tools.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) H OW TO S TAY S HARP 8.7 How to Stay Sharp In this chapter, weve looked at a lot of issues around the idea of focus and attention.
+I have encouraged you to pursue meditation as a tool for mental sharpness and clarity, extolled the virtues of maintaining an exocortex, and warned against the dangers of distraction.
+If you start trying to tackle at least these areas, you will be well on your way to managing your focus and taking control of your attention.
+Next Actions 2 Think of routine things that you need to do that tend to distract you.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.
+9.1 Effective Change Your brain is not necessarily going to cooperate with us on this venture.
+Prepared exclusively for Edwin Chen E FFECTIVE C HANGE Change is always harder than it looks thats a physical reality, not just an aphorism.
+Practice may not make perfect, but it sure makes permanent.
+Practice makes permanent.
+Its the same thing whether youre changing your learning habits, quitting smoking, or losing weight.
+This is a great use of your exocortex: use a journal, a wiki, or a web app to track your progress.
+You have For more on effective organizational change patterns, see Fearless Change: Patterns for Introducing New Ideas [MR05].
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HAT TO D O T OMORROW M ORNING to believe that change is possible.
+Heres a suggested checklist of some possible first steps: 2 Start taking responsibility; dont be afraid to ask why? or how do you know? or how do I know? or to answer I dont knowyet. 2 Pick two things that will help you maintain context and avoid interruption, and start doing them right away.
+2 Create a Pragmatic Investment Plan, and set up SMART goals.
+2 Practice.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) B EYOND E XPER TISE 2 Keep a notebook on you (unlined paper, preferably).
+2 Open up your mind to aesthetics and additional sensory input.
+In an oddly circular way, the most sought-after thing you want to achieve after becoming an expert is...the beginners mind.
+In the beginners mind there are many possibilities, but in the experts there are few.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) B EYOND E XPER TISE Ive seen a lot of this over the years.
+Instead, always keep a beginners mind.
+Approach learning without preconceived notions, prior judgment, or a fixed viewpoint.
+Self-awareness is key to becoming an expertand beyondbut it falls prey to the old-habit-neuralhighway problem.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) B EYOND E XPER TISE we hear users or sponsors tell us precisely what they want in a product, but we dont listen.
+In the novel The Girl with the Pearl Earring, the author describes a fictional account of the painter Vermeer and a serving girl who may have inspired one of Vermeers most well-known paintings (and the title of the book).
+You Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) B EYOND E XPER TISE have more facts, fictions, and viewpoints at your fingertips than at any other time in history.
+Thanks, Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008)

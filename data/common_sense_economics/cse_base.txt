@@ -1,0 +1,216 @@
+Part I THE STATIONARY ECONOMY \ The Isolated Producer Everybody tries to live.
+In order to live one has to consume goods.
+Goods for consumption are not generally obtainable without work.
+They are the products of' labor.
+This holds true for individuals, for communities and for the whole of humanity.
+When somebody produces consumption goods by his own work he exchanges, so to speak, work-hours, of which he has plenty but which he cannot consume directly, for goods which he can consume but which he lacks until they are produced.
+This is exchange in its simplest form.
+We have to understand it thoroughly in order to understand other forms of exchange which, though somewhat more complicated, are all based upon the same principle.
+Our ability to exchange work for goods, to produce, rests upon the fundamental fact that nature offers the technical possibility of transforming work into goods-say of transforming one hour of work into ten apples.
+Given this technical possibility there arises the question of how many hours men will actually use to.
+produce the ,apples they wish to consume.
+The answer is that each individual decides how many hours of leisure he is willing to sacrifice in order to satisfy his appetite for apples.
+It is up to each individual to decide when the point has come at which the disutility of work is no longer compensated by the utility gained by more apples.
+If a man considered the utility of every additional apple, as compared with the disutility of every additional hour's work, to be the same as that of all previously acquired apples and previously worked hours, he would obviously work himself to death-provided he started out by wanting any apples at all.
+He would be killed by an insatiable appetite for apples and a COMMON SENSE ECONOMICS flagrant disregard for his physical limitations.
+He would never stop working, and we could never know his relative valuation of apples and work-hours.
+Fortunately this never happens.
+The famous law of diminishing marginal utility, or better, the law of diminishing v valuation of additional quantities of goods, comes into play.
+The utility of each new apple which even the most passionate lover of apples acquires appears to him less than the utility of apples previously produced.
+On the one hand the need for apples becomes less pressing and is finally limited by the individual's consumption capacity.
+Even utmost greed is satisfied.On the other hand the remaining rest and play hours become fewer and therefore more urgently needed.
+The individual's valuation of leisure increases.
+This means that our man will demand an increasing amount of apples for each additional work-hour; or, looking at it from another angle, his supply price of work in terms of apples will be higher for every additional hour.
+If the working day is to lengthen, nature must pay him a higher price for each working hour.
+Inevitably the price at some point will be more than nature can pay.
+Our man may be prepared to work one hour each day in return for only two apples.
+This one hour is needed neither for rest nor for play, whereas he values the apples highly because they are his first.
+He may be willing to work the following hour for a return of four apples, the next for six apples, and so on.
+The eighth hour, maybe, he will sell only for a return of say sixteen apples.
+He may not be prepared to work at all the ninth hour, even for much greater compensation, because his appetite for apples may be satiated by those already obtained and his desire for rest may have become very urgent.
+It is usual to represent willingness to supply work by a graph in which the quantities offered are measured on the horizontal axis, and the price at which they are offered on the vertical line.
+The resulting supply curve then slopes upward from the left to the right.
+The assumptions referred to above can thus be represented by the supply curve shown in Figure 1.
+THE STATIONARY ECONOMY The supply curve slopes upward to the right up to the eighth hour.
+It shows how the hours.
+of work offered increase with the price paid.
+From the eighth hour onward the curve rises vertically: the supply.
+of work-hours no longer increases with rising prices.
+No matter how much the price is raised it no longer has the power to lengthen the working day.
+Supply of work-hours ~ Price per work- 10 hour in terms of apples I----------------- ~ Demand for work-hours o ....-..-....._ .....--_.......... ......_ .................... ~ -6 Supply of daily work-hours FIG.
+I Our assumption that until the eighth hour the supply of labor -increases with the wage demanded is broadly in conformity with reality.
+According to the general law, the higher the price the greater the supply.
+In the particular case of labor supply, however, we must note a peculiarity.
+A higher wage level, and the resulting higher living standard of the workers, maycause a change in their value judgments.
+The workers may prefer additional rest to ,additional consumption goods.
+We then speak of the supply curve of labor moving upward or to the left.
+This indicates COMMON SENSE ECONOMICS that less work is now forthcoming at each of the various compensation levels.
+On the other hand when the wage level, and with it the living standard, falls the workers may prefer to have more consumption goods rather than more rest.
+The supply curve of labor then moves downward or to the right, indicating that more work is forthcoming at each of the various compensation levels.
+This renders the effect of wage changes somewhat unpredictable, especially in the long run.
+History shows that the higher wages resulting from the increased productivity of the economy have been used by labor partly to increase leisure and partly to buy more goods.
+In insisting on shorter working time labor went without a certain amount of consumption goods which it could otherwise have obtained.
+We shall, nevertheless, assume that in the general case higher wages lead to an increase in the supply of work-hours.
+Let us return to our diagram.
+How many hours will our man actually work on the assumption underlying our curve? }
+The answer obviously depends upon the price, in terms of apples, which the demand for labor is prepared to pay.
+In our simplified model it is nature herself who demands labor in exchange for apples.
+But nature, working neither at a profit nor at a loss, offers for a work-hour exactly what an hour's work produces.
+Suppose this is ten apples.
+Then nature offers ten apples as a reward for every hour of work.
+We represent this demand situation in our graph in the usual way by a horizontalline at the wage level of ten apples an hour.
+We immediately see that on the given assumptions our man will work five hours and produce fifty apples-not more and not lessbecause nature's offer of ten apples for an hour's work is exactly the compensation which our man demands for his fifth hour.
+In other words his work stops at the so-called marginal work-hour where the price, at which its supply is offered, is still just covered by the price which the demand is prepared to pay.
+Some Preliminary Consequences This is, of course, a very simplified model of what would happen in the real world even within an isolated economic unit.
+Yet for all its simplicity it shows quite clearly certain THE STATIONARY ECONOMY v fundamental facts about the economic world which we will encounter again and again as we proceed to the examination of the more complicated real conditions: (1) Production never expands beyond the point where the worker demands more for his work-hour than he produces during this work-hour.
+Any expansion of production depends upon the worker not demanding more in payment than he produces.
+(2) At a given schedule of prices at which the worker offers various quantities of work-hours, that is at a given particular supply curve for labor, production can expand only if the productivity of labor increases.
+Higher productivity of labor enables nature to pay greater compensation, in terms of product 'units.
+The extra-marginal work-hours, which had so far been too expensive, can now be used.
+In our model the work-hours were supplied by one single worker.
+If there are several workers it is now possible also to use work-hours of other workers, who had so far not been employed at all because even their first hour was too dear.
+Higher productivity, therefore, leads not only to longer working time for individual workers, but also to the employment of more workers.
+(3) At given productivity of labor, and hence given demand for labor, production can expand only if the supply price of labor decreases.
+This will happen if the workers either value the utility of consumer goods ,more or the disutility of work less than they did in the~ past.
+Workers will then offer the same amount of work at lower prices, or more work at the same prices.
+Individual workers' hitherto idle hours or hitherto idle workers will be drawn into the productive process.
+This means that a population can consume more if it is willing to work more and to rest less.
+This truth is often forgotten nowadays, although it is self-evident to common sense.
+The comparatively low living standards of tropical countries are admittedly at least partly due -to their peoples' greater appreciation of rest and lesser appreciation of the comforts of life to be produced by work.
+(4) The over-production problem, one of the major problems COMMON SENSE ECONOMICS that has intrigued economists, does not exist in our simplified' Robinson Crusoe world.
+So far as it occurs in reality, overproduction has its roots in conditions not present in the case of the isolated producer.
+Here there can never be separate decisions on consumption and production.
+Production and consumption are so closely linked that neither can ever exceed the other.
+Never can anything be produced that is not consumed.
+Jean-Baptiste Say's law, according to which any production creates a corresponding consumption, is unconditionally valid.
+As soon as the utility of consumption goods no longer compensates for the disutility of the work of producing, production stops.
+(5) Our model also allows us to make certain preliminary remarks on the important subject of profits.
+Our man receives a uniform compensation of ten apples for his work-hours, although it is only for the fifth hour that he demanded this compensation.
+He demanded substantially less for the first, second, third and fourth hours.
+He receives in fact more than what he considered sufficient to compensate him for his work.
+This is his good fortune and results from the fact that nature, exercising demand for his labor, values one work-hour at ten apples.
+For this reason nature pays, for all hours, more than the minimum compensation which he required for his first intra-marginal work-hours.
+But this surplus is not a profit in the usual sense of the word.
+A profit is a phenomenon of distribution.
+It is a surplus arising when part of the output is withheld from other production factors for special reasons.
+No such surplus exists in the case of an isolated producer.
+His own input (of work-hours) is always both necessary and sufficient to produce the whole output (of apples).
+The two are always equal, and neither can exceed the other.
+Even if more is produced through improved techniques, there will still be no surplus.
+A given input can always result only in the output corresponding to the technique employed.
+If our man were to save or hoard his output, the apples, he would indeed end up with a stock of apples.
+But this would be not because he had made a profit from his production but because he had saved or hoarded part of the output.
+THE STATIONARY ECONOMY An isolated producer can never make a profit, nor as we shall see later (p. 16) can an economy as a whole.
+We shall have to keep this in mind in our later examination of the true nature and origin of profits.
+A Multitude of Products We have so far assumed that our man has the choice only between rest and producing a single product, apples.
+In our example he was prepared to work five hours to produce fifty apples.
+We now take a small step away from the simplest model of economic life toward the.
+enormous complexity of the actual economy by assuming that he can produce and consume more than one product.
+In order to simplify the presentation,however, we shall assume that our individual has only the alternative of producing and consuming one more product, pears.
+So far it was a choice between rest and work; now there is the additional choice between the production and consumption of several goods.
+In analyzing the basic principles of this choice we are faced with one of the most important problems in economics-namely the problem of how mankind allocates available resources to various possible productions.
+In our example our producer worked five hours to achieve a total production of fifty apples.
+Let us suppose that he wants { to work neither more nor less than before.
+To what extent will he replace -the production and consumption of apples with those of pears, now that he has the choice between the two?
+The answer depends on the one hand upon his valuation of the relative utilities of pears and apples, and on the other hand upon the relative production costs of apples and pears.
+The question arises whether moreor less time is needed to produce pears rather than apples.
+When the choice is between work and rest, the utility of the products of work is, as we have seen, valued exactly according to the law of diminishing marginal utility: the utility of additional apples appears less as their number increases.
+The same law governs the decisions relating to the consumption of two products, apples and pears.
+Our man will, therefore, COMMON SENSE ECONOMICS value pears lower in relation to apples, as soon as the quantity of the former increases.
+This also because the utility of apples now appears greater to him.
+For if we assume that our producer wishes to produce pears only by sacrificing some of the time hitherto employed in the production of apples, the latter become scarcer.
+Our man might, for instance, consider the utility of the first 5 pears as equivalent to that of 15 apples (1 pear = 3 apples); the utility of the next 5 pears as equivalent to that of 10 apples (1 pear = 2 apples); and the utility of the next 5 pears as equivalent to that of 5 apples (1 pear = 1 apple).
+The next 5 pears might drop in his valuation to less than 5 apples.
+These valuations are, of course, the result of the psychological fact that the appetite for pears decreases with increasing satisfaction, whereas the appetite for apples increases with decreasing satisfaction.
+Weare assuming that the individuals are aware of this fact when making their production plans for a certain time period.
+Anyone who is prepared to forgo apples if he can produce pears instead, demands from himself, as it were, pears in exchange for apples.
+The valuation of pears' in relation to apples can, therefore, be represented by a demand curve in the usual way~' On the assumption just mentioned, this curve will have the shape pictured in Figure 2.
+It has become usual in recent years to present the distribution of a given income (or effort) between two consumption (or production) possibilities with the help of so-called indifference curves.
+Since this technique is generally less accessible.
+to laymen than simple demand and supply curves, we have tried to do without it, especially as we believe that the introduction of the indifference curve technique does not involve any substantial change or progress.
+The method of presentation adopted here reaches essentially.
+the same results.
+Now how many pears will actually be produced, and how many apples sacrificed?
+This obviously depends upon the supply of pears.
+Pears are, so to speak, supplied by nature when work previously devoted to the production of apples is transferred to the production of pears.
+The supply of pears in THE STATIONARY ECONOMY terms of apples.
+is, therefore, dependent upon the relative production costs of apples and pears-in other words upon how much more or less time it takes to produce pears rather than apples.
+Our graph with its several supply curves shows how many apples and pears our man will produce, provided the assump- tions underlying the demand curve remain unchanged.
+Demand curve for pears ./ in terms of 3 t------~~lr-- 52 apples si(:riflced per pear produced Price of pears j .
+D t---_-_-,.- ----.
+::~S1 t6 t-------i-------I----::~ Sa 2S Number of pears demanded FIG.
+2 If we assume that it takes the same time to produce pears and apples, the horizontal supply curve is situated at the price of one apple, or curve S1.
+If it takes three times as much t~me to produce a pear as it does to produce an apple, the horizontal supply curve will run at the price of three apples, or curve 82.
+If to produce pears takes one-third of the time that it takes to produce apples, the supply curve will run at the price -of one-third of an apple per pear, or curve Sa.
+The position of the intersection points between the demand curve and the three supply curves immediately provides the answer to the question COMMON SENSE ECONOMICS of how many pears and apples will be produced on our various assumptions.
+In the first case (represented by 81 ), our man produces 20 pears and sacrifices 20 apples in order to do so.
+Instead of having 50 apples he will now have 30 apples.
+In the second case (represented by curve 8 2 ), 10 pears are produced at a sacrifice of 30 apples.
+Instead of 50 apples there will now be 20 apples.
+In the third case (represented by curve S3), where only one-third of an apple need be sacrificed for the production of each pear, 23 pears will be produced at a sacrifice of nearly 8 apples.
+Instead of the original 50 apples there will now be 42.
+Differences in Utility Judgments We have so far been analyzing the behavior of a single producer or Robinson Crusoe.
+However,an economy does not consist of a single producer but of innumerable producers.
+If all made the same value judgments and produced goods at the same costs-meaning, in our simplified model, that each producer would be devoting the same number of hours of work to the production of the same goods as every other producerthen the output of all producers would have the same composition.
+The whole economy would be no more than the sum of all the similar, even if separate, activities of its members.
+No new problem would arise.
+But men do not all have the same tastes, nor do they all produce the same goods with the same expenditure of work-hours.
+Let us, therefore, turn to an examination of an economy with more than one single producer-consumer.
+For simplicity's sake we assume that there are two, A and B.
+Our single producer valued pears in terms of apples in the manner shown in Figure 2.
+Suppose that the value, in terms of apples, which A attaches to pears is less than our single producer's.
+Producer B, on the other hand, attaches greater value to pears in terms of apples than did our single producer.
+This situation is pictured in Figure 3.
+The curve D a (A's demand for pears in terms of apples) now runs to the left of curve D, the demand curve of our single producer.
+The demand curve Db of producer Bruns to the right of the former demand curve D. THE STATIONARY ECONOMY We can now immediately see how many apples and pears A and B produce, if we assume that the production costs of apples and pears are the same <supply curve 8 1), and if we also assume that the original work-rest choice remains valid, i.e.
+that each works the number of work-hours that is required for the production of 50 apples.
+A then produces and con6 " Price of pears in terms of apples sacrificed per pear produced "" "", "" ", " " ',D Do Db , "" " ""- t-------~--"-~-~~--s. o 1S Number of pear$ d.emanded FIG.
+3 sumes 15 pears and 35 apples, while B produces and consumes 25 pears and 25 apples.
+Our single producer produced and consumed 20 pears and 30 apples.
+A now concentrates more on the production of apples, B more on the production of pears.
+Even though the production costs of pears, in terms of apples, are the same for both, differences in taste have resulted in a different proportion of pears to apples in each of the two producers' total output.
+Differences in Production Costs We can now take another small step towards reality.
+It is most unlikely that production costs will be the same for two COMMON SENSE ECONOMICS or more producers.
+.Differences in the ability to produce various goods may be the result of tradition (a man learns the art of producing apples from his father), or of natural conditions (apples grow better on his land than pears).
+But whatever the reasons, the fact remains that the cost of production of goods in terms of work-hours normally is different for different people.
+Figure 2 has shown us what a single producer would produce and consume at various production cost levels, given a certain demand curve, i.e.
+a certain judgment of the comparative utilities of apples and pears.
+Suppose now that A can produce pears only at higher cost, i.e.
+by more work, than B.
+A may, for instance, be working under conditions represented by the supply curve S2 in Figure 2 (1 pear can be produced by sacrificing 3 apples), while B may be working under the conditions of supply curve S3 (1 pear can be produced by sacrificing t apple).
+If the demand curve for A and B were that of our original single producer (D), producer A would now do as the single producer did when faced with supply conditions S2' i.e.
+produce 10 pears and 20 apples; at the same time producer B would do as the single producer did when faced with supply conditions S3' i.e.
+produce 23 pears and 42 apples.
+But the demand curves of A and B differ from those of our single producer; the demand curves now are as D a and Db in Figure 3.
+To demonstrate what will happen, we have only to amalgamate Figures 2 and 3 in Figure 4, which shows: Producer A, with demand conditions D a and supply conditions S2, produces 5 pears.
+To do so he must sacrifice 15 of the original total of 50 apples, leaving him with 35 apples.
+Producer B, with demand conditions Db and supply conditions S3, produces 28 pears at a sacrifice of just over 9 apples, leaving him with nearly 41 apples.
+A thus produces only 1 pear for every 7 apples-a result of his being both a man with a weaker taste for pears and a poorer producer of them.
+B produces just over 7 pears for every 10 apples, the result of both greater liking for pears and greater proficiency in their production.
+THE STATIONARY ECONOMY Exchange of Goods So long as both A and B produce at the same cost, each sacrificing the same number of working hours for the same quantity of the same product, no exchange takes place between A and B no matter how different their individual relative valuations of apples and pears may be.
+Production simply ", " , Price of pears in terms of apples sacrificed per pear produced Db , ' ''0 3 I-_~_ _ '~_~_ 52 (0) ", , ", , "" " I----+-----~--,,~-__""':_- 5.
+", 1/3 I-----r---------.Jo,~---~,-,-~o s 1S 2S 53(b) Number of pears demanded FIG.
+4 follows the demand and consumption of the individual producers.
+But if the production costs of A and B differ, exchange will take place as soon as they are no longer isolated from each other but able to exchange goods.
+As an isolated producer, A could produce 5 pears only by exchanging 15 apples with nature, since his production costs for pears are those shown by curve.
+S2 in Figure 4 (1 pear for 3 apples).
+It would obviously be advantageous for him to produce no pears at all but only apples, and to exchange some of the latter for pears with B, whose production costs for pears are those shown by curve Sa (1 pear for t apple).
+So-called COMMON SENSE ECONOMICS division of labor would be the result.
+No one any longer produces everything.
+Labor is divided according to what is to be produced.
+It should be noted that in our example both A and B produce apples at the same cost.
+What differs is the production cost of pears in terms of apples.
+It is the difference in the relative production cost of apples and pears which makes exchange advantageous.
+How could an exchange of products between A and B be made under the cost condition described?
+We see that A produces 1 pear in the time it takes him to produce 3 apples, and that B produces 3 pears in the time it takes him to produce 1 apple.
+The most advantageous exchange for A would be to receive 3 of B's pears in exchange for each of his own apples; and the most advantageous exchange for B would be to receive 3 of A's apples in exchange for each of his own pears.
+Both exchanges are possible, but in either case only one of the producers would gain; by an exchange at any level in between both producers could gain.
+If A gives less than 3 apples for each pear he receives, he gains by the exchange, for his production costs are such that he must sacrifice 3 apples for every"pear he produces.
+On the other hand, if B receives more than I apple for every 3 pears, he also gains by the exchange, for in his own orchard he must sacrifice 1 apple for every 3 pears he produces.
+The range within which exchange is advantageous for both producer A and producer B is therefore between!
+and 3 apples per pear, or between 3 and t pears per apple.
+The actual exchange rate of apples for pears at which the deal will go through depends, in our two-producer economy in which there are no competing parties in the market, upon the respective bargaining ability of A and B.
+All that can be stated with certainty is that the rate is bound to be within definite limits, and even that is contingent upon a rational behavior of both producers-meaning that both try to maximize the advantages to be obtained.
+Let us assume that the price of pears expressed in apples will be somewhere between the two extremes, say 1 apple for 1 pear.
+How many apples and pears will A and B produce and THE STATIONARY ECONOMY eventually consume?
+According to Figure 4 producer.'

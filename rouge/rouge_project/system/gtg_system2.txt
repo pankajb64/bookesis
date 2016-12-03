@@ -1,0 +1,74 @@
+C H A P T E R That's what makes death so hard-unsatisfied curiosity.
+- B ERYL M A R K H A M , West with the Night 1 od is the enemy of great.
+And that is one of the key reasons why we have so little that becomes great.
+We don't have great schools, principally because we have good schools.
+We don't have great government, principally because we have good government.
+Few people attain great lives, in large part because it is just so easy to settle for a good life.
+The vast majority of companies never become great, precisely because the vast majority become quite good-and that is their main problem.
+This point became piercingly clear to me in 1996, when I was having dinner with a group of thought leaders gathered for a discussion about organizational performance.
+Bill Meehan, the managing director of the San Francisco office of McKinsey & Company, leaned over and casually confided, "You know, Jim, we love Built to Last around here.
+You and your coauthor did a very fine job on the research and writing.
+Unfortunately, it's useless."
+Curious, I asked him to explain.
+"The companies you wrote about were, for the most part, always great," he said.
+"They never had to turn themselves from good companies into great companies.
+They had parents like David Packard and George Merck, who shaped the character of greatness from early on.
+But what about the vast majority of companies that wake up partway through life and realize that they're good, but not great?"
+I now realize that Meehan was exaggerating for effect with his "useless" comment, but his essential observation was correct-that truly great com- Jim Collins Good to Great panies, for the most part, have always been great.
+And the vast majority of good companies remain just that-good, but not great.
+Indeed, Meehan's comment proved to be an invaluable gift, as it planted the seed of a question that became the basis of this entire book-namely, Can a good company become a great company and, if so, how?
+O r is the disease of "just being good" incurable?
+Five years after that fateful dinner we can now say, without question, that good to great does happen, and we've learned much about the underlying variables that make it happen.
+Inspired by Bill Meehan's challenge, my research team and I embarked on a five-year research effort, a journey to explore the inner workings of good to great.
+To quickly grasp the concept of the project, look at the chart on page 2."
+In essence, we identified companies that made the leap from good results to great results and sustained those results for at least fifteen years.
+We compared these companies to a carefully selected control group of comparison companies that failed to make the leap, or if they did, failed to sustain it.
+We then compared the good-to-great companies to the comparison companies to discover the essential and distinguishing factors at work.
+The good-to-great examples that made the final cut into the study attained extraordinary results, averaging cumulative stock returns 6.9 times the general market in the fifteen years following their transition points.2 To put that in perspective, General Electric (considered by many to be the best-led company in America at the end of the twentieth century) outperformed the market by 2.8 times over the fifteen years 1985 to 2000.3 Furthermore, if you invested $1 in a mutual fund of the good-togreat companies in 1965, holding each company at the general market rate until the date of transition, and simultaneously invested $1 in a general market stock fund, your $1 in the good-to-great fund taken out on January 1, 2000, would have multiplied 471 times, compared to a 56 fold increase in the market.4 These are remarkable numbers, made all the more remarkable when you consider the fact that they came from companies that had previously been so utterly unremarkable.
+Consider just one case, Walgreens.
+For over forty years, Walgreens had bumped along as a very average company, more or less tracking the general market.
+Then in 1975, seemingly out of nowhere-bang!-Walgreens began to clinib .
+and climb.
+and *A description of how the charts on pages 2 and 4 were created appears in chapter 1 notes at the end of the book.
+Jim Collins Cumulative Stock Returns of $1 Invested, 1965 - 2000 Good-to-Great Companies: $471 Dtrect Compar~son Compan~es$93 $100 Notes: 1.
+$1 divided evenly across companies in each set, January 1, 1965.
+2.
+Each company held at market rate of return, until transition date.
+3.
+Cumulative value of each fund shown as of January 1.
+2000.
+4.
+Dlv~dendsreinvested, adjusted for all stock splits.
+climb .
+and climb .
+and it just kept climbing.
+From December 31, 1975, to January 1, 2000, $1 invested in Walgreens beat $1 invested in technology superstar Intel by nearly two times, General Electric by nearly five times, Coca-Cola by nearly eight times, and the general stock market (including the NASDAQ stock run-up at the end of 1999) by over fifteen times.
+* How on earth did a company with such a long history of being nothing special transform itself into an enterprise that outperformed some of the best-led organizations in the world?
+And why was Walgreens able to make the leap when other companies in the same industry with the same opportunities and similar resources, such as Eckerd, did not make the leap?
+This single case captures the essence of our quest.
+This book is not about Walgreens per se, or any of the specific compa*Calculations of stock returns used throughout this book reflect the total cumulative return to an investor, dividends reinvested and adjusted for stock splits.
+T h e "general stock market" (often referred to as simply "the market") reflects the totality of stocks traded on the New York Exchange, American Stock Exchange, and NASDAQ.
+See the notes to chapter 1 for details on data sources and calculations.
+Good to Great nies we studied.
+It is about the question-Can a good company become a great company and, if so, how?-and our search for timeless, universal answers that can be applied by any organization.
+This book is dedicated to teaching what we've learned.
+The remainder of this introductory chapter tells the story of our journey, outlines our research method, and previews the key findings.
+In chapter 2, we launch headlong into the findings themselves, beginning with one of the most provocative of the whole study: Level 5 leadership.
+UNDAUNTED CURIOSITY People often ask, "What motivates you to undertake these huge research projects?"
+It's a good question.
+The answer is, "Curiosity."
+There is nothing I find more exciting than picking a question that I don't know the answer to and embarking on a quest for answers.
+It's deeply satisfying to climb into the boat, like Lewis and Clark, and head west, saying, "We don't know what we'll find when we get there, but we'll be sure to let you know when we get back."
+Here is the abbreviated story of this particular odyssey of curiosity.
+P h a s e 1: The S e a r c h With the question in hand, I began to assemble a team of researchers.
+(When I use "we" throughout this book, I am referring to the research team.
+In all, twenty-one people worked on the project at key points, usually in teams of four to six at a time.)
+Our first task was to find companies that showed the good-to-great pattern exemplified in the chart on page 2.
+We launched a six-month "death march of financial analysis," looking for companies that showed the fol- lim Collins lowing basic pattern: fifteen-year cumulative stock returns at or below the general stock market, punctuated by a transition point, then cumulative returns at least three times the market over the next fifteen years.
+We picked fifteen years because it would transcend one-hit wonders and lucky breaks (you can't just be lucky for fifteen years) and would exceed the average tenure of most chief executive officers (helping us to separate great companies from companies that just happened to have a single great leader).
+We picked three times the market because it exceeds the performance of most widely acknowledged great companies.
+For perspective, a mutual fund of the following "marquis set" of companies beat the market by only 2.5 times over the years 1985 to 2000: 3M, Boeing, Coca-Cola, GE, Hewlett-Packard, Intel, Johnson & Johnson, Merck, Motorola, Pepsi, Procter & Gamble, Wal-Mart, and Walt Disney.
+Not a bad set to beat.
+From an initial universe of companies that appeared on the Fortune 500 in the years 1965 to 1995, we systematically searched and sifted, eventually finding eleven good-to-great examples.
+(I've put a detailed description of our search in Appendix l.A.) However, a couple of points deserve brief mention here.
+First, a company had to demonstrate the good-to-great pattern independent of its industry; if the whole industry showed the same pattern, we dropped the company.

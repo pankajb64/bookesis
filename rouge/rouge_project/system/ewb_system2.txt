@@ -1,0 +1,96 @@
+INTRODUCTION Lawrence A. Cunningham Experienced readers of Warren Buffett's letters to the shareholders of Berkshire Hathaway Inc. have gained an enormously valuable informal education.
+The letters distill in plain words all the basic principles of sound business practices.
+On selecting managers and investments, valuing businesses, and using financial information profitably, the writings are broad in scope, and long on wisdom.
+Yet until now the letters existed in a format that was neither easily accessible nor organized in any thematic way.
+Consequently, the ideas have not been given the more widespread attention they deserve.
+The motivation for this compendium and for the symposium featuring it is to correct an inefficiency in the marketplace of ideas by disseminating the essays to a wider audience.
+The central theme uniting Buffett's lucid essays is that the principles of fundamental valuation analysis, first formulated by his teachers Ben Graham and David Dodd, should guide investment practice.
+Linked to that theme are management principles that define the proper role of corporate managers as the stewards of invested capital, and the proper role of shareholders as the suppliers and owners of capital.
+Radiating from these main themes are practical and sensible lessons on mergers and acquisitions, accounting, and taxation.
+Many of Buffett's lessons directly contradict what has been taught in business and law schools during the past thirty years, and what has been practiced on Wall Street and throughout corporate America during that time.
+Much of that teaching and practice eclipsed what Graham and Dodd had to say; Buffett is their prodigal pupil, stalwartly defending their views.
+The defenses run from an impassioned refutation of modern finance theory, to convincing demonstrations of the deleterious effects of using stock options to compensate managers, to persuasive arguments about the exaggerated benefits of synergistic acquisitions and cash flow analysis.
+Buffett has applied the traditional principles as chief executive officer of Berkshire Hathaway, a company with roots in a group of textile operations begun in the early 1800s.
+Buffett took the helm of Berkshire in 1964, when its book value per share was $19.46 and its intrinsic value per share far lower.
+Today, its book value per share is around $20,000 and its intrinsic value far higher.
+The CARDOZO LAW REVIEW [Vol.
+19:1 growth rate in book value per share during that period is 23.8% compounded annually.
+Berkshire is now a holding company engaged in a variety of businesses, not including textiles.
+Berkshire's most important business is insurance, carried on principally through its 100% owned subsidiary, GEICO Corporation, the seventh largest auto insurer in the United States.
+Berkshire publishes The Buffalo News and owns other businesses that manufacture or distribute products ranging from encyclopedias, home furnishings, and cleaning systems, to chocolate candies, ice cream, footwear, uniforms, and air compressors.
+Berkshire also owns substantial equity interests in major corporations, including American Express, Coca-Cola, Walt Disney, Freddie Mac, Gillette, McDonald's, The Washington Post, and Wells Fargo.
+Buffett and Berkshire Vice Chairman Charlie Munger have built this $50 billion enterprise by investing in businesses with excellent economic characteristics and run by outstanding managers.
+While they prefer negotiated acquisitions of 100% of such a business at a fair price, they take a "double-barreled approach" of buying on the open market less than 100% of such businesses when they can do so at a pro-rata price well below what it would take to buy 100%.
+The double-barreled approach has paid off handsomely.
+The value of marketable securities in Berkshire's portfolio, on a per share basis, increased from $4 in 1965 to over $22,000 in 1995, a 33.4% annual increase.
+Per share operating earnings increased in the same period from just over $4 to over $258, a 14.79% annual increase.
+These extraordinary results continue, in recent years increasing at similar rates.
+According to Buffett, these results follow not from any master plan but from focused investing-allocating capital by concentrating on businesses with outstanding economic characteristics and run by first-rate managers.
+Buffett views Berkshire as a partnership among him, Munger and other shareholders, and virtually all his $15-plus billion net worth is in Berkshire stock.
+His economic goal is long-term-to maximize Berkshire's per share intrinsic value by owning all or part of a diversified group of businesses that generate cash and above-average returns.
+In achieving this goal, Buffett foregoes expansion for the sake of expansion and foregoes divestment of businesses so long as they generate some cash and have good management.
+1997] THE ESSAYS OF WARREN BUFFETT Berkshire retains and reinvests earnings when doing so delivers at least proportional increases in per share market value over time.
+It uses debt sparingly and sells equity only when it receives as much in value as it gives.
+Buffett penetrates accounting conventions, especially those that obscure real economic earnings.
+These owner-related business principles, as Buffett calls them, are the organizing themes of the accompanying essays.
+As organized, the essays constitute an elegant and instructive manual on management, investment, finance, and accounting.
+Buffett's basic principles form the framework for a rich range of positions on the wide variety of issues that exist in all aspects of business.
+They go far beyond mere abstract platitudes.
+It is true that investors should focus on fundamentals, be patient, and exercise good judgment based on common sense.
+In Buffett's essays, these advisory tidbits are anchored in the more concrete principles by which Buffett lives and thrives.
+Many people speculate on what Berkshire and Buffett are doing or plan to do.
+Their speculation is sometimes right and sometimes wrong, but always foolish.
+People would be far better off not attempting to ferret out what specific investments are being made at Berkshire, but thinking about how to make sound investment selections based on Berkshire's teaching.
+That means they should think about Buffett's writings and learn from them, rather than try to emulate Berkshire's portfolio.
+Buffett modestly confesses that most of the ideas expressed in his essays were taught to him by Ben Graham.
+He considers himself the conduit through which Graham's ideas have proven their value.
+In allowing me to prepare this material, Buffett said that I could be the popularizer of Graham's ideas and Buffett's application of them.
+Buffett recognizes the risk of popularizing his business and investment philosophy.
+But he notes that he benefited enormously from Graham's intellectual generosity and believes it is appropriate that he pass the wisdom on, even if that means creating investment competitors.
+To that end, my most important role has been to organize the essays around the themes reflected in this collection.
+This introduction to the major themes encapsulates the basics and locates them in the context of current thinking.
+The essays follow.
+CORPORATE GOVERNANCE For Buffett, managers are stewards of shareholder capital.
+The best managers think like owners in making business decisions.
+CARDOZO LAW REVIEW [Vol.
+19:1 They have shareholder interests at heart.
+But even first-rate managers will sometimes have interests that conflict with those of shareholders.
+How to ease those conflicts and to nurture managerial stewardship have been constant objectives of Buffett's fortyyear career and a prominent theme of his essays.
+The essays address some of the most important governance problems.
+The first is not dwelt on in the essays but rather permeates them: it is the importance of forthrightness and candor in communications by managers to shareholders.
+Buffett tells it like it is, or at least as he sees it.
+That quality attracts an interested shareholder constituency to Berkshire, which flocks to its annual meetings in increasing numbers every year.
+Unlike what happens at most annual shareholder meetings, a sustained and productive dialogue on business issues results.
+Besides the owner-orientation reflected in Buffett's disclosure practice and the owner-related business principles summarized above, the next management lesson is to dispense with formulas of managerial structure.
+Contrary to textbook rules on organizational behavior, mapping an abstract chain of command on to a particular business situation, according to Buffett, does little good.
+What matters is selecting people who are able, honest, and hard-working.
+Having first-rate people on the team is more important than designing hierarchies and clarifying who reports to whom about what and at what times.
+Special attention must be paid to selecting a CEO because of three major differences Buffett identifies between CEOs and other employees.
+First, standards for measuring a CEO's performance are inadequate or easy to manipulate, so a CEO's performance is harder to measure than that of most workers.
+Second, no one is senior to the CEO, so no senior person's performance can be measured either.
+Third, a board of directors cannot serve that senior role since relations between CEOs and boards are conventionally congenial.
+Major reforms are often directed toward aligning management and shareholder interests or enhancing board oversight of CEO performance.
+Stock options for management were touted as one method; greater emphasis on board processes was another.
+Separating the identities and functions of the Chairman of the Board and the CEO or appointment of standing audit, nominating and compensation committees were also heralded as promising reforms.
+None of these innovations has solved governance problems, however, and some have exacerbated them.
+1997] THE ESSAYS OF WARREN BUFFETT The best solution, Buffett instructs, is to take great care in identifying CEOs who will perform capably regardless of weak structural restraints.
+Outstanding CEOs do not need a lot of coaching from owners, although they can benefit from having a similarly outstanding board.
+Directors therefore must be chosen for their business savvy, their interest, and their owner-orientation.
+According to Buffett, one of the greatest problems among boards in corporate America is that members are selected for other reasons, such as adding diversity or prominence to a board.
+Most reforms are painted with a broad brush, without noting the major differences among types of board situations that Buffett identifies.
+For example, director power is weakest in the case where there is a controlling shareholder who is also the manager.
+When disagreements arise between the directors and management, there is little a director can do other than to object and, in serious circumstances, resign.
+Director power is strongest at the other extreme, where there is a controlling shareholder who does not participate in management.
+The directors can take matters directly to the controlling shareholder when disagreement arises.
+The most common situation, however, is a corporation without a controlling shareholder.
+This is where management problems are most acute, Buffett says.
+It would be helpful if directors could supply necessary discipline, but board congeniality usually prevents that.
+To maximize board effectiveness in this situation, Buffett believes the board should be small in size and composed mostly of outside directors.
+The strongest weapon a director can wield in these situations remains his or her threat to resign.
+All these situations do share a common characteristic: the terrible manager is a lot easier to confront or remove than the mediocre manager.
+A chief problem in all governance structures, Buffett emphasizes, is that in corporate America evaluation of chief executive officers is never conducted in regular meetings in the absence of that chief executive.
+Holding regular meetings without the chief executive to review his or her performance would be a marked improvement in corporate governance.
+Evaluating CEO performance is even harder than it may seem.
+Both short-term results and potential long-term results must be assessed.
+If only short-term results mattered, many managerial decisions would be much easier, particularly those relating to businesses whose economic characteristics have eroded.
+For an extreme but not atypical example, consider Al Dunlap's aggressive plan to turn around ailing Sunbeam.

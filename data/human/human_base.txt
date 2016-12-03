@@ -1,0 +1,93 @@
+I CYBERNETICS IN HISTORY Since the end of World War II, I have been working on the many ramifications of the theory of messages.
+Besides the electrical engineering theory of the trans mission of messages, there is a larger field which in cludes not only the study of language but the study of messages as a means of controlling machinery and society, the development of computing machines and other such automata, certain reflections upon psychol ogy and the nervous system, and a tentative new theory of scientific method.
+This larger theory of messages is a probabilistic theory, an intrinsic part of the move ment that owes its origin to Willard Gibbs and which I have described in the introduction.
+Until recently, there was no existing word for this complex of ideas, and in order to embrace the whole field by a single term, I felt constrained to invent one.
+Hence "Cybernetics," which I derived from the Greek word kubernetes, or "steersman," the same Greek word from which we eventually derive our word "governor."
+Incidentally, I found later that the word had already been used by Ampere with reference to political science, and had been introduced in another context by a Polish scientist, both uses dating from the earlier part of the nineteenth century.
+I wrote a more or less technical book entitled Cybernetics which was published in 1948.
+In response to a certain demand for me to make its ideas acceptable to the lay public, I published the first edition of The Human Use of Human Beings in 1950.
+Since then the THE HUMAN USE OF HUMAN BEINGS subject has grown from a few ideas shared by Drs.
+Claude Shannon, Warren Weaver, and myself, into an established region of research.
+Therefore, I take this opportunity occasioned by the reprinting of my book to bring it up to date, and to remove certain defects and inconsequentialities in its original structure.
+In giving the definition of Cybernetics in the original book, I classed communication and control together.
+Why did I do this?
+When I communicate with another person, I impart a message to him, and when he com municates back with me he returns a related message which contains information primarily accessible to him and not to me.
+When I control the actions of another person, I communicate a message to him, and although this message is in the imperative mood, the technique of communication does not differ from that of a message of fact.
+Furthermore, if my control is to be effective I must take cognizance of any messages from him which may indicate that the order is understood and has been obeyed.
+It is the thesis of this book that society can only b e understood through a study o f the messages and the communication facilities which belong to it; and that in the future development of these messages and com munication facilities, messages between man and ma chines, between machines and man, and between machine and machine, are destined to play an ever increasing part.
+When I give an order to a machine, the situation is not essentially different from that which arises when I give an order to a person.
+In other words, as far as my consciousness goes I am aware of the order that has gone out and of the signal of compliance that has come back.
+To me, personally, the fact that the signal in its intermediate stages has gone through a machine rather than through a person is irrelevant and does not in any case greatly change my relation to the signal.
+Thus the theory of control in engineering, whether human or CYBERNETICS AND SOCIETY animal or mechanical, is a chapter in the theory of messages.
+Naturally there are detailed differences in messages and in problems of control, not only between a living organism and a machine, but within each narrower class of beings.
+It is the purpose of Cybernetics to de velop a language and techniques that will enable us indeed to attack the problem of control and communi cation in general, but also to find the proper repertory of ideas and techniques to classify their particular manifestations under certain concepts.
+The commands through which we exercise our con trol over our environment are a kind of information which we impart to it.
+Like any fonn of information, these commands are subject to disorganization in transit.
+They generally come through in less coherent fashion and certainly not more coherently than they were sent.
+In control and communication we are always  fighting nature's tendency to degrade the organized and to destroy the meaningful; the tendency, as Gibbs has shown us, for entropy to increase.
+Much of this book concerns the limits of communi cation within and among individuals.
+Man is immersed in a world which he perceives through his sense organs.
+Information that he receives is co-ordinated through his brain and nervous system until, after the proper process of stora ge, collation, and selection, it emerges through effector organs, generally his muscles.
+These in turn act on the external world, and also react on the central nervous system through receptor organs such as the end organs of kinaesthesia; and the information received by the kinaesthetic organs is combined with his already accumulated store of information to in fluence future action.
+Information is a name for the content of what is exchanged with the outer world as we adjust to it, and make our adjustment felt upon it.
+The process of receiving and of using information is the process of THE HUMAN USE OF HUMAN BEINGS our adjusting to the contingencies of the outer environ ment, and of our living effectively within that environ ment.
+The needs and the complexity of modern life make greater demands on this process of information than ever before, and our press, our museums, our scientific laboratories, our universities, our libraries and textbooks, are obliged to meet the needs of this process or fail in their purpose.
+To live effectively is to live with adequate information.
+Thus, communication and control belong to the essence of man's inner life, even as they belong to his life in society.
+The place of the study of communication in the his tory of science is neither trivial, fortuitous, nor new.
+Even before Newton such problems were current in physics, especially in the work of Fermat, Huygens, and Leibnitz, each of whom shared an interest in physics whose focus was not mechanics but optics, the communication of visual images.
+Fermat furthered the study of optics with his prin ciple of minimization which says that over any suffi ciently short part of its course, light follows the path which it takes the least time to traverse.
+Huygens de veloped the primitive form of what is now known as Huygens' Principle" by saying that light spreads from a source by forming around that source something like a small sphere consisting of secondary sources which in turn propagate light just as the primary sources do.
+Leibnitz, in the meantime, saw the whole world as a collection of beings called monads" whose activity consisted in the perception of one another on the basis of a pre-established harmony laid down by God, and it is fairly clear that he thought of this interaction largely in optical terms.
+Apart from this perception, the mon ads had no windows," so that in his view all mechan ical interaction really becomes nothing more than a subtle consequence of optical interaction.
+A preoccupation with optics and with message, which is apparent in this part of Leibnitz's philosophy, CYBERNETICS AND SOCIETY runs through its whole texture.
+It plays a large part in two of his most original ideas : that of the Character istica Universalis, or universal scientific language, and that of the Calculus Ratiocinator, or calcul!
+!s ()fJ.
+This Calculus Ratiocinator, imperfect as it was, was the direct ancestor of modern mathematical logic.
+Leibnitz, dominated by ideas of communication, is, in more than one way, the intellectual ancestor of the ideas of this book, for he was also interested in machine computation and in automata.
+My views in this book are very far from being Leibnitzian, but the problems with which I am concerned are most certainly Leibnitzian.
+Leibnitz's computing machines were only an offshoot of his interest in a computing language, a reasoning calculus which again was in his mind, merely an ex tention of his idea of a complete artificial language.
+Thus, even in his computing machine, Leibnitz's pre occupations were mostly linguistic and communica tional.
+Toward the middle of the last century, the work of Clerk Maxwell and of his precursor, Faraday, had at tracted the attention of physicists once more to optics, the science of light, which was now regarded as a form of electricity that could be reduced to the mechanics of a curious, rigid, but invisible medium known as the ether, which, at the time, was supposed to permeate the atmosphere, interstellar space and all transparent materials.
+Clerk Maxwell's work on optics consisted in the mathematical development of ideas which had been previously expressed in a cogent but non-mathe matical form by Faraday.
+The study of ether raised certain questions whose answers were obscure, as, for example, that of the motion of matter through the ether.
+The famous experiment of Michelson and MorIey, in the nineties, was undertaken to resolve this problem, and it gave the entirely unexpected answer that there simply was no way to determine the motion of matter through the ether.
+The first satisfactory solution to the problems aroused by this experiment was that of Lorentz, who pointed out that if the forces holding matter together were con ceived as being themselves electrical or optical in nature, we should expect a negative result from the Michelson-Morley experiment.
+However, Einstein in 1 90 5 translated these ideas of Lorentz into a form in which the unobservability of absolute motion was rather a postulate of physics than the result of any particular structure of matter.
+For our purposes, the important thing is that in Einstein's work, light and matter are on an equal basis, as they had been in the writings before Newton; without the Newtonian subordination of everything else to matter and mechanics.
+In explaining his views, Einstein makes abundant use of the observer who may be at rest or may be moving.
+In his theory of relativity it is impossible to introduce the observer without also introducing the idea of message, and without, in fact, returning the emphasis of physics to a quasi-Leibnitzian state, whose tendency is once again optical.
+Einstein's theory of rel ativity and Gibbs' statistical mechanics are in sharp contrast, in that Einstein, like Newton, is still talking primarily in terms of an absolutely rigid dynamics not introducing the idea of probability.
+Gibbs' work, on the other hand, is probabilistic from the very start, yet both directions of work represent a shift in the point .. " .
+of view of physics in which the world as it actually (; exists is replaced in some sense or other by the world ,as it happens to be <:>bseTY.g, and the old naIve realism Of physics gives Way to something on which Bishop Berkeley might have smiled with pleasure.
+At this point it is appropriate for us to review certain notions pertaining to entropy which have already been presented in the.
+introduction.
+As we have said, the .
+( ,idea of entropy represents several of the most impor tant departures of Gibbsian mechanics from New tonian mechanics.
+In Gibbs' view we have a physical _ ( ' . THE HUMAN USE OF HUMAN BEINGS CYBERNETICS AND SOCIETY quantity which belongs not to the outside world as such, but to certain sets of possible outside worlds, and therefore to the answer to certain specific questions which we can ask concerning the outside world.
+Physics now becomes not the discussion of an outside universe which may be regarded as the total answer to all the questions concerning it, but an account of the answers to much more limited questions.
+In fact, we are now no longer concerned with the study of all possible outgoing and incoming messages which we may send and receive, but with the theory of much more specific outgoing and incoming messages; and it involves a measurement of the no-longer infinite amount of information that they yield us.
+Mess_[lg :rt:l themselves a form of pattern and or ganization.
+Indeed,- it is possible to treat sets of mes sages as having an entropy like sets of states of the external world.
+Just as entropy is a measure of disor ganization, the information carried by a set of mes sages is a measure of organization.
+In fact, it is possible to interpret the information carried by a message as essentially the negative of its entropy, and the negative logarithm of its probability.
+That is, the more probable the message, the less information it gives .
+Cliches, for example, are less illuminating than great poems.
+I have already referred to Leibnitz's interest in automata, an interest incidentally shared py his con temporary, Pascal, who made real contributions to the development of what we now know as the desk adding machine.
+Leibnitz saw in the concordance of the time given by clocks set at the same time, the model for the pre-established harmony of his monads.
+For the tech nique embodied in the automata of his time was that of the clockmaker.
+Let us consider the activity of the little figures which dance on the top of a music box.
+They move in accordance with a pattern, but it is a pattern which is set in advance, and in which the past activity of the figures has practically nothing to do with the I r THE HUMAN USE OF HUMAN BEINGS pattern of their future activity.
+The probability that they will diverge from this pattern is nil.
+There is a message, indeed; but it goes from the machinery of the music box to the figures, and stops there.
+The fig ures themselves have no trace of communication with the outer world, except this one-way stage of communi cation with the pre-established mechanism of the music box.
+They are blind, deaf, and dumb, and cannot vary their activity in the least from the conventionalized pattern.
+Contrast with them the behavior of man, or indeed of any moderately intelligent animal such as a kitten.
+I call to the kitten and it looks up.
+I have sent it a message which , it has received by its sensory organs, and which it registers in action.
+The kitten is hungry and lets out a pitiful wail.
+This time it is the sender of a message.
+The kitten bats at a swinging spool.
+The spool swings to its left, and the kitten catches it with its left paw.
+This time messages of a very complicated nature are both sent and received within the kitten's own nervous system through certain nerve end-bodies in its joints, muscles, and tendons; and by means of nervous messages sent by these organs, the animal is aware of the actual position and tensions of its tissues.
+It is only through these organs that anything like a manual skill is possible.

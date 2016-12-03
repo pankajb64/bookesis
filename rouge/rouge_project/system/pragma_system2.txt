@@ -1,0 +1,231 @@
+Chapter 1 Introduction Welcome!
+Thanks for picking up this book.
+Together, were going to journey through bits of cognitive science, neuroscience, and learning and behavioral theory.
+Youll see surprising aspects of how our brains work and see how you can beat the system to improve your own learning and thinking skills.
+Were going to begin to refactor your wetwareredesign and rewire your brainto make you more effective at your job.
+Whether youre a programmer, manager, knowledge worker, technogeek, or deep thinker, or if you just happen to have a human brain youd like to crank up, this book will help.
+Im a programmer, so my examples and rants will be directed at the world of software development.
+If youre not a programmer, dont worry; programming really has little to do with writing software in arcane, cryptic languages (although we have a curious attachment to that habit).
+Programming is all about problem solving.
+It requires creativity, ingenuity, and invention.
+Regardless of your profession, you probably also have to solve problems creatively.
+However, for programmers, combining rich, flexible human thought with the rigid constraints of a digital computer exposes the power and the deepest flaws of both.
+Whether youre a programmer or frustrated user, you may have already suspected that software development must be the most difficult endeavor ever envisioned and practiced by humans.
+Its complexity strains our best abilities daily, and failures can often Prepared exclusively for Edwin Chen C HAPTER 1.
+I NTRODUCTION be spectacularand newsworthy.
+Weve smashed spaceships into distant planets, blown up expensive rockets filled with irreplaceable experiments, plagued consumers with automated collection letters for $0.00, and stranded airline travelers on a semiregular basis.
+But now the good news (sort of): its all our fault.
+We tend to make programming much harder on ourselves than we need.
+Because of the way the industry has evolved over time, it seems weve lost track of some of the most fundamental, most important skills needed by a software developer.
+The good news is that we can fix that right here and right now.
+This book will help show you how.
+The number of bugs programmers introduce into programs has remained constant for the past forty years.
+Despite advances in programming languages, techniques, project methodologies, and so on, the defect density has remained fairly constant.1 Maybe thats because weve been focusing on the wrong things.
+Despite all these obvious changes in technology, one thing has remained constant: us.
+Developers.
+People.
+Software isnt designed in an IDE or other tool.
+Its imagined and created in our heads.
+Ideas and concepts are shared and communicated among a team, including the Software is created in folks who are paying our organization to your head.
+develop this software.
+Weve spent the time investing in basic technologyin languages, tools, methodologies.
+That was time well spent, but now its time to move on.
+Now we need to look at the really hard problems of social interaction in and between teams and even at the harder issues of just plain old thinking.
+No project is an island; software cant be built or perform in isolation.
+Frederick Brooks, in his landmark paper No Silver BulletEssence and Accident in Software Engineering [Bro86], claimed that the software product is embedded in a cultural matrix of applications, 1.
+Based on research by Capers Jones via Bob Binder.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C HAPTER 1.
+I NTRODUCTION users, laws, and machine vehicles.2 These all change continually, and their changes inexorably force change upon the software product. Brooks observation puts us squarely at the center of the maelstrom of society itself.
+Because of this complex interaction of many interested parties and forces and the constant evolution of change, it seems to me that the two most important modern skills are these:  Communication skills  Learning and thinking skills Some improvement to communication skills is being addressed by our industry.
+Agile methods (see the sidebar on the following page), in particular, emphasize improved communications between team members and between the ultimate customer and the development team.
+Mass-media books such as Presentation Zen: Simple Ideas on Presentation Design and Delivery [Rey08] are suddenly best-sellers as more and more people realize the importance of simple, effective communication.
+Its a good start.
+But then theres learning and thinking, which is a much harder nut to crack.
+Programmers have to learn constantlynot just the stereotypical new technologies but also the problem domain of the application, the whims of the user community, the quirks of their teammates, the shifting sands of the industry, and the evolving characteristics of the project itself as it is built.
+We have to learnand relearn constantly.
+Then we have to apply this learning to the daily barrage of both old and new problems.
+It sounds easy enough in principle perhaps, but learning, critical thinking, creativity, and inventionall those mind-expanding skillsare all up to you.
+You dont get taught; you have to learn.
+We tend to look at the teacher/learner relationship the wrong way around: its not that the teacher teaches; its that the student learns.
+The learning is always up to you.
+Its my hope that Pragmatic Thinking and Learning can help guide you through accelerated and enhanced learning and more pragmatic thinking.
+2.
+That is, platforms.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) A GAIN WITH THE P RAGMATIC ?
+What Are Agile Methods?
+The term agile methods was coined at a summit meeting in February 2001 by seventeen leaders in software development, including the founders of various development methodologies such Extreme Programming, Scrum, Crystal, and, of course, our own pragmatic programming.
+Agile methods differ from traditional plan-based methods in a number of significant ways, most notably in eschewing rigid rules and discarding dusty old schedules in favor of adapting to real-time feedback.
+Ill talk about agile methods often throughout the book, because many of the agile ideas and practices fit in well with good cognitive habits.
+1.1 Again with the Pragmatic?
+From the original The Pragmatic Programmer: From Journeyman to Master [HT00] to our Pragmatic Bookshelf publishing imprint, you will notice that we have a certain preoccupation with the word pragmatic.
+The essence of pragmatism is to do what worksfor you.
+So before we begin, please bear in mind that every individual is different.
+Although many of the studies that Ill reference have been conducted on large populations, some have not.
+Im going to draw on a large variety of material ranging from hard scientific fact proven with functional MRI scans of the brain to conceptual theories, as well as material ranging from old wives tales to Hey, Fred tried it, and it worked for him. In many casesespecially when discussing the brainthe underlying scientific reasons are unknown or unknowable.
+But do not let that worry you: if it works, then its pragmatic, and I will offer it here for your consideration.
+I hope many of these ideas will work for you.
+But some folks are just plain wired differently; you may be one of them.
+And Only dead fish go with thats OK; you shouldnt follow any advice the flow.
+blindly.
+Even mine.
+Instead, read with an open mind.
+Try the suggestions, and decide what works for you.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) C ONSIDER THE C ONTEXT What Is Wetware?
+wetware || wet |we( )r|: etymology: wet + software e Noun, humorous.
+Human brain cells or thought processes regarded as analogous to, or in contrast with, computer systems.
+That is, using the model of a computer as an analogy to human thought processes.
+As you grow and adapt, you may need to modify your habits and approaches as well.
+Nothing in life is ever static; only dead fish go with the flow.
+So, please take this book as just the beginning.
+Ill share the pragmatic ideas and techniques Ive found in my journey; the rest is up to you.
+1.2 Consider the Context Everything is interconnected: the physical world, social systems, your innermost thoughts, the unrelenting logic of the computer everything forms one immense, interconnected system of reality.
+Nothing exists in isolation; everything is part of the system and part of a larger context.
+Because of that inconvenient fact of reality, small things can have unexpectedly large effects.
+That disproportionate effect is the hallmark of nonlinear systems, and in case you hadnt noticed, the real world is decidedly nonlinear.
+When we try to pick out anything by itself, we find it hitched to everything else in the universe.
+John Muir, 1911, My First Summer in the Sierra Throughout this book, youll find activities or differences that seem to be so subtle or inconsequential that they couldnt possibly make a difference.
+These are activities such as thinking a thought to yourself vs. speaking it out loud or such as writing a sentence on a piece of paper vs. typing it into an editor on the computer.
+Abstractly, these things should be perfectly equivalent.
+But they arent.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) E VERYONE I S T ALKING A BOUT T HIS S TUFF These kinds of activities utilize very different pathways in the brainpathways that are affected by your very thoughts and how you think them.
+Your thoughts are not disconnected from the rest of the brain machinery or your body; its all connected.
+This is just one example (and well talk more about the brain later in the book), but it helps illustrate the importance of thinking about interacting systems.
+In his seminal book The Fifth Discipline: Everything is The Art and Practice of the Learning Organization [Sen90], Peter Senge popularized interconnected.
+the term systems thinking to describe a different approach of viewing the world.
+In systems thinking, one tries to envision an object as a connection point of several systems, rather than as a discrete object unto itself.
+For instance, you might consider a tree to be a single, discrete object sitting on the visible ground.
+But in fact, a tree is a connection of at least two major systems: the processing cycle of leaves and air and of roots and earth.
+Its not static; its not isolated.
+And even more interesting, youll rarely be a simple observer of a system.
+More likely, youll be part of it, whether you know it or not.3 TIP 1 Always consider the context.
+Put a copy of that up on your wall or your desktop, in your conference room, on your whiteboard, or anywhere you think alone or with others.
+Well be returning to it.
+1.3 Everyone Is Talking About This Stuff As I was mulling over the idea of writing this book, I started to notice that a lot of people in different disciplines were talking about the topics in which I was interested.
+But these were in very different and diverse areas, including the following:  MBA and executive-level training  Cognitive science research Suggested by our old buddy Heisenberg and his quantum uncertainty principle, the more general observer effect posits that you cant observe a system without altering it.
+3.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HERE W E  RE G OING  Learning theory  Nursing, health care, aviation, and other professions and industries  Yoga and meditative practices  Programming, abstraction, and problem solving  Artificial intelligence research When you start to find the same set of ideasthe same common threads Theres something showing up in different guises in these fundamental here.
+very different areas, thats usually a sign.
+There must be something fundamental and very important lurking under the covers for these similar ideas to be present in so many different contexts.
+Yoga and meditative techniques seem to be enjoying quite a bit of mainstream popularity these days, and not always for obvious reasons.
+I noticed an article in an in-flight magazine around October 2005 that trumpeted the headline Companies Now Offering Yoga and Meditation to Help Fight Rising Health-Care Costs. Large companies have not historically embraced such warm-andfuzzy activities.
+But the meteoric rise of health-care costs has forced them to take any course of action that might help.
+Clearly, they believe the studies showing that practitioners of yoga and meditative techniques enjoy greater overall health than the general population.
+In this book, were more interested in the areas related to cognition, but greater overall health is a nice side benefit.
+I also noticed that a number of MBA and executive-level courses promote various meditative, creative, and intuitive techniques stuff that fits in perfectly with the available research but that has not yet been passed down to the employees in the trenches, including us knowledge-worker types.
+But not to worry, well be covering these topics here for you.
+No MBA required.
+1.4 Where Were Going Every good journey begins with a map, and ours appears in the front portion of this book.
+Despite the linear flow of a book, these topics are entwined and interrelated, as the map shows.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HERE W E  RE G OING After all, everything is connected to everything else.
+But its somewhat difficult to appreciate that idea with a linear read of a book.
+You cant always get a sense of whats related when faced with countless see also references in the text.
+By presenting the map graphically, I hope you get the opportunity to see whats related to what a little more clearly.
+With that in mind, the following is roughly where we are headed, despite a few side trips, tangents, and excursions on the way.
+Journey from Novice to Expert In the first part of the book, well look at why your brain works as it does, beginning with a popular model of expertise.
+The Dreyfus model of skill acquisition provides a powerful way of looking at how you move beyond beginner-level performance and begin the journey to mastery of a skill.
+Well take a look at the Dreyfus model and in particular look at the keys to becoming an expert: harnessing and applying your own experience, understanding context, and harnessing intuition.
+This Is Your Brain The most important tool in software development is, of course, your own brain.
+Well take a look at some of the basics of cognitive science and neuroscience as they relate to our interests as software developers, including a model of the brain that looks a lot like a dual-CPU, shared-bus design and how to do your own brain surgery of a sort.
+Get in Your Right Mind Once we have a better understanding of the brain, we will find ways to exploit underutilized facets of thinking to help encourage better creativity and problem solving, as well as harvest and process experiences more effectively.
+Well also take a look at where intuition comes from.
+Intuition, the hallmark of the expert, turns out to be a tricky beast.
+You need it, you rely on it, but you also probably fight against using it constantly, without knowing why.
+You may also be actively suspicious of your own and others intuition, mistakenly thinking that its not scientific. Well see how to fix that and give your intuition freer reign.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HERE W E  RE G OING Debug Your Mind Intuition is a fantastic skill, except when its wrong.
+There are a large number of known bugs in human thinking.
+You have builtin biases in your cognition, influences from when youre born and from your cohort (those born about the same time as you), your innate personality, and even hardware wiring problems.
+These bugs in the system often mislead you by clouding your judgment and steering you toward bad, even disastrous, decisions.
+Knowing these common bugs is the first step to mitigating them.
+Learn Deliberately Now that weve gotten a good look at how the brain works, well start taking a more deliberate look at how to take advantage of the system, beginning with learning.
+Note that I mean learning in the broadest sense, covering not only new technologies, programming languages, and the like, but also your learning of the dynamics of the team youre on, the characteristics of the evolving software youre building, and so on.
+In these times, we have to learn all the time.
+But most of us have never been taught how, so we sort of wing it as best we can.
+Ill show you some specific techniques to help improve your learning ability.
+Well look at planning techniques, mind maps, a reading technique known as SQ3R, and the cognitive importance of teaching and writing.
+Armed with these techniques, you can absorb new information faster and easier, gain more insights, and retain this new knowledge better.
+Gain Experience Gaining experience is key to your learning and growthwe learn best by doing.
+However, just doing alone is no guarantee of success; you have to learn from the doing for it to count, and it turns out that some common obstacles make this hard.
+You cant force experience either; trying too hard can be just as bad (if not worse) than slogging through the same old motions.
+Well take a look at what you need to create an efficient learning environment using feedback, fun, and failure; see the dangers of deadlines; and see how to gain experience virtually with mental grooving.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) W HERE W E  RE G OING Manage Focus Managing your attention and focus is the next critical step in your journey.
+Ill share with you some tricks, tips, and pointers to help you manage the flood of knowledge, information, and insights that you need to gain experience and learn.
+We live in information-rich times, and its easy to get so swamped under the daily demands of our jobs that we have no chance to advance our careers.
+Lets try to fix that and increase your attention and focus.
+Well take a look at how to optimize your current context, manage those pesky interruptions better, and see why interruptions are such cognitive train wrecks.
+Well look at why you need to defocus in order to focus better in the mental marinade and manage your knowledge in a more deliberate manner.
+Beyond Expertise Finally, well take a quick look at why change is harder than it looks, and Ill offer suggestions for what you can do tomorrow morning to get started.
+Ill share what I think lies beyond expertise and how to get there.
+So, sit back, grab your favorite beverage, and lets take a look at whats under the hood.
+Next Actions Throughout the book, Ill suggest next actions that you can take to help reinforce and make this material real for you.
+These might include exercises to do, experiments to try, or habits to start.
+Ill list these using checkboxes so you can check the items youve done, like this: 2 Take a hard look at current problems on your project.
+Can you spot the different systems involved?
+Where do they interact?
+Are these interaction points related to the problems youre seeing?
+2 Find three things youve analyzed out of context that caused you problems later.
+2 Put up a sign somewhere near your monitor that reads Consider the context. Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) G RATEFUL A CKNOWLEDGMENTS About the Figures You may notice that figures in this book dont look like the typical shiny, mechanically perfect drawings youd expect from Adobe Illustrator or something similar.
+Thats quite deliberate.
+From the electronics books by Forrest M. Mims III to the back-of-the-napkin design documents favored by agile developers, hand-drawn figures have certain unique properties, and well see why a bit later in the book.
+1.5 Grateful Acknowledgments Very special thanks to Ellie Hunt for introducing me to the Dreyfus model and related nursing research, suffering through my disjointed and rambling prose, keeping me on track, and keeping our domestic enterprises running like a well-oiled machine.
+A regular editors job is often difficult and thankless, and mere appreciation in a preface really doesnt do it justice.
+To be editor, mom, and business manager all at once truly takes skill and patience.
+Thanks to my friends on the Pragmatic Wetware mailing list and reviewers, including Bert Bates, Don Gray, Ron Green, Shawn Hartstock, Dierk Koenig, Niclas Nilsson, Paul Oakes, Jared Richardson, Linda Rising, Johanna Rothman, Jeremy Sydik, Steph Thompson, and everyone else who posted their thoughts, experiences, and readings.
+Their combined experiences are invaluable.
+Special thanks to June Kim for his many contributions throughout the book, including pointers to far-flung research and stories of his own experiences, as well as his feedback throughout the stages of birthing this book.
+Special thanks also to Dr. Patricia Benner, who introduced the Dreyfus model of skills acquisition to the nursing profession, for her support and permission to quote from her works and for her enthusiasm for learning.
+Thanks go to Dr. Betty Edwards, who pioneered the practical applications of lateral specialization in the brain, for her kind support and permission to quote from her works.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) G RATEFUL A CKNOWLEDGMENTS Thanks to Sara Lynn Eastler for the index, to Kim Wimpsett for correcting my many typos and often haphazard grammar, and to Steve Peter for implementing a plethora of typesetting tricks.
+And finally, thanks to you for purchasing this book and beginning the journey with me.
+Lets move our profession forward in the right direction, harness our experience and intuition, and create new environments where learning matters.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) We cant solve problems by using the same kind of thinking we used when we created them.
+Albert Einstein Chapter 2 Journey from Novice to Expert Wouldnt you like to be the expert?
+To intuitively know the right answer?
+This is the first step of our journey together along that road.
+In this chapter, well look at what it means to be a novice and what it means to be an expertand all the stages in between.
+Heres where our story begins.
+Once upon a time, two researchers (brothers) wanted to advance the state of the art in artificial intelligence.
+They wanted to write software that would learn and attain skills in the same manner that humans learn and gain skill (or prove that it couldnt be done).
+To do that, they first had to study how humans learn.
+They developed the Dreyfus model of skill acquisition,1 which outlines five discrete stages through which one must pass on the journey from novice to expert.
+Well take a look at this concept in depth; as it turns out, were not the first ones to use it effectively.
+Back in the early 1980s, the nursing profession in the United States used the lessons of the Dreyfus model to correct their approach and help advance their profession.
+At the time, the problems faced by nurses mirrored many of the same problems programmers and engineers face today.
+Their profession has made great progress, and in the meantime we still have some work to do with ours.
+Described in Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer [DD86].
+1.
+Prepared exclusively for Edwin Chen C HAPTER 2.
+J OURNEY FROM N OVICE TO E XPER T Event Theories vs. Construct Theories The Dreyfus model is whats called a construct theory.
+There are two types of theories: event theories and construct theories. Both are used to explain some phenomenon that youve observed.
+Event theories can be measured; these types of theories can be verified and proven.
+You can judge the accuracy of an event theory.
+Construct theories are intangible abstractions; it makes no sense to speak of proving them. Instead, construct theories are evaluated in terms of their usefulness.
+You cant judge a construct theory to be accurate or not.
+Thats mixing apples and existentialism.
+An apple is a thing; existentialism is an abstraction.
+For instance, I can prove all sorts of things about your brain using simple electricity or complex medical imaging devices.
+But I cant even prove you have a mind.
+Mind is an abstraction; theres really no such thing.
+Its just an idea, a concept.
+But its a very useful one.
+The Dreyfus model is a construct theory.
+Its an abstraction, and as well see, its a very useful one.
+See Tools of Critical Thinking: Metathoughts for Psychology [Lev97].
+Here are some observations that ring true for both nurses and programmers, and probably other professions as well:  Expert staff members working in the trenches arent always recognized as experts or paid accordingly.
+ Not all expert staff want to end up as managers.
+ Theres a huge variance in staff members abilities.
+ Theres a huge variance in managers abilities.
+ Any given team likely has members at widely different skill levels and cant be treated as a homogeneous set of replaceable resources.
+Theres more to skill levels than just being better, smarter, or faster.
+The Dreyfus model describes how and why our abilities, attitudes, capabilities, and perspectives change according to skill level.
+Prepared exclusively for Edwin Chen Report erratum this copy is (P1.0 printing, October 2008) N OVICES VS .
+E XPER TS Figure 2.1: A Unix wizard It helps explain why many of the past approaches to software development improvement have failed.
+It suggests a course of action that we can pursue in order to meaningfully improve the software development professionboth as individual practitioners and for the industry as a whole.
+Lets take a look.
+2.1 Novices vs.
+Experts What do you call an expert software developer?
+A wizard.
+We work with magic numbers, things in hex, zombie processes, and mystical incantations such as tar -xzvf plugh.tgz and sudo gem install --includedependencies rails.
+We can even change our identity to become someone else or transform into the root userthe epitome of supreme power in the Unix world.
+Wizards make it look effortless.
+A dash of eye of newt, a little bat-wing dust, some incantations, and poof !
+The job is done.

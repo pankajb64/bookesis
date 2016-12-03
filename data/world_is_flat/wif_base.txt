@@ -1,0 +1,143 @@
+ONE While I Was Sleeping Your Highnesses, as Catholic Christians, and princes who love and promote the holy Christian faith, and are enemies of the doctrine of Mahomet, and of all idolatry and heresy, determined to send me, Christopher Columbus, to the above-mentioned countries of India, to see the said princes, people, and territo ries, and to learn their disposition and the proper method of converting them to our holy faith; and furthermore directed that I should not proceed by land to the East, as is customary, but by a Westerly route, in which direction we have hith erto no certain evidence that anyone has gone.
+ Entry from the journal of Christopher Columbus on his voyage of 1492 N o one ever gave me directions like this on a golf course before: "Aim at either Microsoft or IBM."
+I was standing on the first tee at the KGA Golf Club in downtown Bangalore, in southern India, when my playing partner pointed at two shiny glass-and-steel buildings off in the distance, just behind the first green.
+The Goldman Sachs building wasn't done yet; otherwise he could have pointed that out as well and made it a threesome.
+HP and Texas Instruments had their of fices on the back nine, along the tenth hole.
+That wasn't all.
+The tee markers were from Epson, the printer company, and one of our caddies was wearing a hat from 3M.
+Outside, some of the traffic signs were also sponsored by Texas Instruments, and the Pizza Hut billboard on the way over showed a steaming pizza, under the headline "Gigabites of Taste!"
+THE WORLD IS FLAT No, this definitely wasn't Kansas.
+It didn't even seem like India.
+Was this the New World, the Old World, or the Next World?
+I had come to Bangalore, India's Silicon Valley, on my own Columbus-like journey of exploration.
+Columbus sailed with the Nina, the Pinta, and the Santa Maria in an effort to discover a shorter, more di rect route to India by heading west, across the Atlantic, on what he pre sumed to be an open sea route to the East Indies rather than going south and east around Africa, as Portuguese explorers of his day were try ing to do.
+India and the magical Spice Islands of the East were famed at the time for their gold, pearls, gems, and silka source of untold riches.
+Finding this shortcut by sea to India, at a time when the Muslim powers of the day had blocked the overland routes from Europe, was a way for both Columbus and the Spanish monarchy to become wealthy and pow erful.
+When Columbus set sail, he apparently assumed the earth was round, which was why he was convinced that he could get to India by going west.
+He miscalculated the distance, though.
+He thought the earth was a smaller sphere than it is.
+He also did not anticipate run ning into a landmass before he reached the East Indies.
+Nevertheless, he called the aboriginal peoples he encountered in the new world "Indians."
+Returning home, though, Columbus was able to tell his pa trons, King Ferdinand and Queen Isabella, that although he never did find India, he could confirm that the world was indeed round.
+I set out for India by going due east, via Frankfurt.
+I had Lufthansa business class.
+I knew exactly which direction I was going thanks to the GPS map displayed on the screen that popped out of the armrest of my airline seat.
+I landed safely and on schedule.
+I too encountered people called Indians.
+I too was searching for India's riches.
+Columbus was searching for hardwareprecious metals, silk, and spicesthe sources of wealth in his day.
+I was searching for software, brainpower, complex al gorithms, knowledge workers, call centers, transmission protocols, break throughs in optical engineeringthe sources of wealth in our day.
+Columbus was happy to make the Indians he met his slaves, a pool of free manual labor.
+I just wanted to understand why the Indians I met were taking our work, why they had become such an important pool for the outsourcing of service and information technology work from WHILE I WAS SLEEPING America and other industrialized countries.
+Columbus had more than one hundred men on his three ships; I had a small crew from the Discovery Times channel that fit comfortably into two banged-up vans, with Indian drivers who drove barefoot.
+When I set sail, so to speak, I too assumed that the world was round, but what I encountered in the real India profoundly shook my faith in that notion.
+Columbus accidentally ran into America but thought he had discovered part of India.
+I actually found India and thought many of the people I met there were Ameri cans.
+Some had actually taken American names, and others were doing great imitations of American accents at call centers and American busi ness techniques at software labs.
+Columbus reported to his king and queen that the world was round, and he went down in history as the man who first made this discovery.
+I returned home and shared my discovery only with my wife, and only in a whisper.
+"Honey," I confided, "I think the world is flat."
+H ow did I come to this conclusion?
+I guess you could say it all started in Nandan Nilekani's conference room at Infosys Technologies Limited.
+Infosys is one of the jewels of the Indian information technology world, and Nilekani, the company's CEO, is one of the most thoughtful and respected captains of Indian industry.
+I drove with the Discovery Times crew out to the Infosys campus, about forty minutes from the heart of Bangalore, to tour the facility and interview Nilekani.
+The Infosys campus is reached by a pockmarked road, with sacred cows, horse-drawn carts, and motorized rickshaws all jostling alongside our vans.
+Once you enter the gates of Infosys, though, you are in a different world.
+A massive resort-size swimming pool nestles amid boulders and manicured lawns, adjacent to a huge putting green.
+There are multiple restaurants and a fabulous health club.
+Glass-and-steel buildings seem to sprout up like weeds each week.
+In some of those buildings, Infosys employees are writing specific software pro grams for American or European companies; in others, they are running the back rooms of major American- and European-based multinationals everything from computer maintenance to specific research projects to THE WORLD IS FLAT answering customer calls routed there from all over the world.
+Security is tight, cameras monitor the doors, and if you are working for Ameri can Express, you cannot get into the building that is managing services and research for General Electric.
+Young Indian engineers, men and women, walk briskly from building to building, dangling ID badges.
+One looked like he could do my taxes.
+Another looked like she could take my computer apart.
+And a third looked like she designed it!
+After sitting for an interview, Nilekani gave our T V crew a tour of Infosys's global conferencing centerground zero of the Indian out sourcing industry.
+It was a cavernous wood-paneled room that looked like a tiered classroom from an Ivy League law school.
+On one end was a massive wall-size screen and overhead there were cameras in the ceil ing for teleconferencing.
+"So this is our conference room, probably the largest screen in Asiathis is forty digital screens [put together]," Nilekani explained proudly, pointing to the biggest flat-screen T V I had ever seen.
+Infosys, he said, can hold a virtual meeting of the key players from its entire global supply chain for any project at any time on that supersize screen.
+So their American designers could be on the screen speaking with their Indian software writers and their Asian manufactur ers all at once.
+"We could be sitting here, somebody from New York, London, Boston, San Francisco, all live.
+And maybe the implementation is in Singapore, so the Singapore person could also be live here .
+That's globalization," said Nilekani.
+Above the screen there were eight clocks that pretty well summed up the Infosys workday: 24/7/365.
+The clocks were labeled US West, US East, GMT, India, Singapore, Hong Kong, Japan, Australia.
+"Outsourcing is just one dimension of a much more fundamental thing happening today in the world," Nilekani explained.
+"What hap pened over the last [few] years is that there was a massive investment in technology, especially in the bubble era, when hundreds of millions of dollars were invested in putting broadband connectivity around the world, undersea cables, all those things."
+At the same time, he added, computers became cheaper and dispersed all over the world, and there was an explosion of softwaree-mail, search engines like Google, and proprietary software that can chop up any piece of work and send one WHILE I WAS SLEEPING part to Boston, one part to Bangalore, and one part to Beijing, making it easy for anyone to do remote development.
+When all of these things sud denly came together around 2000, added Nilekani, they "created a plat form where intellectual work, intellectual capital, could be delivered from anywhere.
+It could be disaggregated, delivered, distributed, pro duced, and put back together againand this gave a whole new degree of freedom to the way we do work, especially work of an intellectual na ture .
+And what you are seeing in Bangalore today is really the culmi nation of all these things coming together."
+We were sitting on the couch outside Nilekani's office, waiting for the TV crew to set up its cameras.
+At one point, summing up the implica tions of all this, Nilekani uttered a phrase that rang in my ear.
+He said to me, "Tom, the playing field is being leveled."
+He meant that countries like India are now able to compete for global knowledge work as never beforeand that America had better get ready for this.
+America was go ing to be challenged, but, he insisted, the challenge would be good for America because we are always at our best when we are being chal lenged.
+As I left the Infosys campus that evening and bounced along the road back to Bangalore, I kept chewing on that phrase: "The playing field is being leveled."
+What Nandan is saying, I thought to myself, is that the playing field is being flattened .
+Flattened?
+Flattened?
+I rolled that word around in my head for a while and then, in the chemical way that these things hap pen, it just popped out: My God, he's telling me the world is flat!
+Here I was in Bangaloremore than five hundred years after Columbus sailed over the horizon, using the rudimentary navigational technologies of his day, and returned safely to prove definitively that the world was roundand one of India's smartest engineers, trained at his country's top technical institute and backed by the most modern tech nologies of his day, was essentially telling me that the world was flatas flat as that screen on which he can host a meeting of his whole global supply chain.
+Even more interesting, he was citing this development as a good thing, as a new milestone in human progress and a great opportu nity for India and the worldthe fact that we had made our world flat!
+In the back of that van, I scribbled down four words in my notebook: THE WORLD IS FLAT "The world is flat."
+As soon as I wrote them, I realized that this was the underlying message of everything that I had seen and heard in Bangalore in two weeks of filming.
+The global competitive playing field was being leveled.
+The world was being flattened.
+As I came to this realization, I was filled with both excitement and dread.
+The journalist in me was excited at having found a framework to better understand the morning headlines and to explain what was hap pening in the world today.
+Clearly Nandan was right: It is now possible for more people than ever to collaborate and compete in real time with more other people on more different kinds of work from more different corners of the planet and on a more equal footing than at any previous time in the history of the worldusing computers, e-mail, fiber-optic networks, teleconferencing, and dynamic new software.
+That was what I discovered on my journey to India and beyond.
+And that is what this book is about.
+When you start to think of the world as flat, or at least in the process of flattening, a lot of things make sense in ways they did not before.
+But I was also excited personally, because what the flattening of the world means is that we are now connecting all the knowledge centers on the planet together into a single global network, whichif politics and terrorism do not get in the waycould usher in an amazing era of prosperity, innovation, and collaboration, by companies, communities, and individuals.
+But contemplating the flat world also left me filled with dread, professional and personal.
+My personal dread derived from the obvious fact that its not only the software writers and computer geeks who get empowered to collaborate on work in a flat world.
+It's also alQaeda and other terrorist networks.
+The playing field is not being leveled only in ways that draw in and superempower a whole new group of in novators.
+It's being leveled in a way that draws in and superempowers a whole new group of angry, frustrated, and humiliated men and women.
+Professionally, the recognition that the world was flat was unnerving because I realized that this flattening had been taking place while I was sleeping, and I had missed it.
+I wasn't really sleeping, but I was otherwise engaged.
+Before 9/11,1 was focused on tracking globalization and explor ing the tension between the "Lexus" forces of economic integration and the "Olive Tree" forces of identity and nationalismhence my 1999 book, WHILE I WAS SLEEPING The Lexus and the Olive Tree.
+But after 9/11, the olive tree wars became allconsuming for me.
+I spent almost all my time traveling in the Arab and Muslim worlds.
+During those years I lost the trail of globalization.
+I found that trail again on my journey to Bangalore in February 2004.
+Once I did, I realized that something really important had hap pened while I was fixated on the olive groves of Kabul and Baghdad.
+Globalization had gone to a whole new level.
+If you put The Lexus and the Olive Tree and this book together, the broad historical argument you end up with is that there have been three great eras of globaliza tion.
+The first lasted from 1492when Columbus set sail, opening trade between the Old World and the New Worlduntil around 1800.
+I would call this era Globalization 1.0.
+It shrank the world from a size large to a size medium.
+Globalization 1.0 was about countries and muscles.
+That is, in Globalization 1.0, the key agent of change, the dy namic force driving the process of global integration, was how much brawnhow much muscle, how much horsepower, wind power, or, later, steam poweryour country had and how creatively you could de ploy it.
+In this era, countries and governments (often inspired by religion or imperialism or a combination of both) led the way in breaking down walls and knitting the world together, driving global integration.
+In Globalization 1.0, the primary questions were: Where does my country fit into global competition and opportunities?
+How can I go global and collaborate with others through my country?
+The second great era, Globalization 2.0, lasted roughly from 1800 to 2000, interrupted by the Great Depression and World Wars I and II.
+This era shrank the world from a size medium to a size small.
+In Global ization 2.0, the key agent of change, the dynamic force driving global integration, was multinational companies.
+These multinationals went global for markets and labor, spearheaded first by the expansion of the Dutch and English joint-stock companies and the Industrial Revolution.
+In the first half of this era, global integration was powered by falling trans portation costs, thanks to the steam engine and the railroad, and in the second half by falling telecommunication coststhanks to the diffusion of the telegraph, telephones, the PC, satellites, fiber-optic cable, and the early version of the World Wide Web.
+It was during this era that we really THE WORLD IS FLAT saw the birth and maturation of a global economy, in the sense that there was enough movement of goods and information from continent to con tinent for there to be a global market, with global arbitrage in products and labor.
+The dynamic forces behind this era of globalization were breakthroughs in hardwarefrom steamships and railroads in the be ginning to telephones and mainframe computers toward the end.
+And the big questions in this era were: Where does my company fit into the global economy?
+How does it take advantage of the opportunities?
+How can I go global and collaborate with others through my company?
+The Lexus and the Olive Tree was primarily about the climax of this era, an era when the walls started falling all around the world, and integration and the backlash to itwent to a whole new level.
+But even as the walls fell, there were still a lot of barriers to seamless global integration.
+Remember, when Bill Clinton was elected president in 1992, virtually no one outside of government and the academy had e-mail, and when I was writing The Lexus and the Olive Tree in 1998, the Internet and e-commerce were just taking off.
+Well, they took offalong with a lot of other things that came to gether while I was sleeping.
+And that is why I argue in this book that right around the year 2000 we entered a whole new era: Globalization 3.0.
+Globalization 3.0 is shrinking the world from a size small to a size tiny and flattening the playing field at the same time.
+And while the dy namic force in Globalization 1.0 was countries globalizing and the dy namic force in Globalization 2.0 was companies globalizing, the dynamic force in Globalization 3.0the force that gives it its unique characteris the newfound power for individuals to collaborate and compete globally.
+And the phenomenon that is enabling, empowering, and enjoining individuals and small groups to go global so easily and so seamlessly is what I call the flat-world platform, which I describe in de tail in this book.
+Just a hint: The flat-world platform is the product of a convergence of the personal computer (which allowed every individual suddenly to become the author of his or her own content in digital form) with fiber-optic cable (which suddenly allowed all those individ uals to access more and more digital content around the world for next to nothing) with the rise of work flow software (which enabled individ- WHILE I WAS SLEEPING uals all over the world to collaborate on that same digital content from anywhere, regardless of the distances between them).
+No one antici pated this convergence.
+It just happenedright around the year 2000.
+And when it did, people all over the world started waking up and realiz ing that they had more power than ever to go global as individuals, they needed more than ever to think of themselves as individuals competing against other individuals all over the planet, and they had more oppor tunities to work with those other individuals, not just compete with them.
+As a result, every person now must, and can, ask: Where do I as an individual fit into the global competition and opportunities of the day, and how can I, on my own, collaborate with others globally?
+But Globalization 3.0 differs from the previous eras not only in how it is shrinking and flattening the world and in how it is empowering indi viduals.
+It also is different in that Globalization 1.0 and 2.0 were driven primarily by European and American individuals and businesses.
+Even though China actually had the biggest economy in the world in the eigh teenth century, it was Western countries, companies, and explorers who were doing most of the globalizing and shaping of the system.

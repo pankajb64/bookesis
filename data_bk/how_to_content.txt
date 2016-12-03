@@ -1,0 +1,7 @@
+split text into sentences (separated by dot) and separate each into a new line
+remove titles, page numbers, headings, appendix, etc.
+take care of abbrieviations that you may have encountered in the index or any that you encounter during processing this text.
+regex to split text by periods followed by a space. Find \.\s+ replace by \.\n (This also puts new line after abbrieviations)
+regex to combine multiple parts of sentences that were on different lines to a single line - Find ([^\.])\n replace  (space). Note that this does not handle abbrieviations.
+
+Further possible actions - separate text into page numbers ? Without this, the page number for index has no meaning

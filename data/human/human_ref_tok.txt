@@ -1,0 +1,93 @@
+Cybernetics is a field of study that arises out of information theory and automation.
+Norbert Wiener introduced the field in his book Cybernetics: Or Control and Communication in the Animal and the Machine.
+The presentation in that book is technical and not easily accessible to a layman.
+Wiener sought to popularize the ideas presented there in this book.
+The rise of statistical mechanics and the discovery of entropy lead scientists to world view of indeterminacy and contingency.
+In such a universe chaos is more likely than order.
+Yet order does exist.
+How this order persists and increases is the study of cybernetics.
+Life and some recent devised machines are capable of increasing order through the use of feedback to alter behavior.
+The human ability to make such life-like machines gives insights into how these processes work.
+As much or more than other sciences, cybernetics impacts society at large.
+It has implications for political, judicial and scientific organizations.
+It points to new definitions of humanity and the changing role of people in relationship to machines.
+The end of the nineteenth century saw the downfall of Newtonian physics, where the world was viewed as completely predictable, if given a set of initial conditions.
+As the initial state of any system can never be precisely measured, we are left with an understanding only of a distribution of possible states.
+Willard Gibbs was the first to show "a clean cut scientific method for taking this contingency into consideration."
+(p. 8) Physics now describes a universe of incomplete determinism.
+In such a universe organization and distinctiveness is less probable than chaos and sameness.
+How organization increases is some parts of the universe, against the odds, is the study of cybernetics.
+There is a complex of ideas related to the theory of messages that Weiner has named Cybernetics.
+Cybernetics is the science of communication and control over our environment.
+Leibniz is the intellectual ancestor of the idea of this science, primarily for his contribution of the Characteristica Universalis and the Calculus Ratiocinator.
+The lineage is traced through the history of the development of optics.
+Einstein's work with the theory of relativity shifted the perspective from one of the way the exists, to one in which the world exists for an observer.
+Absolute motion of an object is not observable as a consequence of the structure of matter, but is a postulate of physics.
+The universe as a whole is no longer the study of physics.
+Instead, physics is the study of the universe as it is observed.
+This study is cast in terms of messages by cybernetics.
+"Messages are ... a form of pattern and organization."
+(p. 21) The information carried in a sets of messages can be measured as the negative of its entropy.
+A message that is always the same regardless of its environment contains much more entropy than a message that varies in response to its environment.
+One may see the relationship between organization and feedback when one considers machines made to act on the external world.
+Such machines have mechanisms to receive messages from the outside world.
+The messages received by the machine are input.
+The machine produces some effect in the world, some output.
+The steps between input and output can be based not only on immediate input but also on past stored data, memory in the machine.
+Machines may be made to vary their operation based on certain kinds of special input called taping.
+Machines that act on the world with some degree of sophistication must also measure there own performance as feedback, and vary their output accordingly.
+Human beings are not a closed system and so are able to decrease entropy without violating the second law of thermodynamics.
+This law states that in a closed system entropy increases.
+Information plays a central role in the local decrease of entropy.
+Communicative machine and organizations adapt to their environment, as do societies.
+Democracy is a loosely structured social organization with a lot of opportunity for adaption and so is a better social structure for humans than fascism.
+Man and his machines have acquired language with a subtlety not found elsewhere in nature.
+Human language has a phonetic, semantic and effective level.
+The phonetic level is the sound made; the semantic level, the meaning and the effective level is the observable behavior that results from the language.
+Human organizations were limited in size but the scope of their ability to communicate.
+This scope has reached global proportions and so global organizations, even a global government.
+Organisms maintain or increase their level of organization.
+Organisms are not the elements of which they are comprised then, but rather "patterns that perpetuate themselves".
+(p.96)  One may consider two types of transportation.
+The movement of material and the movement of information.
+People can only move materially at this time, but it us not inconceivable that a person might be transported as information.
+In cybernetic terms, law is the ethical control of communication applied with authority of social sanction.
+Justice is the coupling of the behavior of individuals with sanctions provided by law.
+The development of worldwide communication networks suggest a new openness in the world, but the U.S. is experiencing [in 1954] a strong impetus towards secrecy.
+The impetus towards secrecy is driven out of a misunderstanding of the nature of information.
+Information is viewed as a commodity.
+The patent system may have once effectively supported society when inventions were the application of mechanical ingenuity by skilled craftsmen.
+However, the distinction between the work of the technician and the scientist has no bright line.
+Patents can not be granted for the discoveries of the laws of nature.
+Technicians apply the information gathered by scientists ti the tools available to them to create new tools.
+The new tools are essentially a manifestation of information, an application of a discovery of a law of nature, not an application of mechanical ingenuity by a skilled craftsman.
+Commodities follow the laws of the conservation of matter and energy.
+Information follows the laws of thermodynamics.
+Information is a stage in a continuous process of observation and action in the world.
+Military scientific research that is labelled secret and concealed does not keep a country safe.
+"... it is more important ... that we have adequate knowledge than to ensure that some potential enemy does not have it."
+(p. 122)  A consequence of information being part of process rather than a commodity is that time is an important aspect of the value of information.
+A policy of secrecy impedes the timely availability of information necessary for effective research to occur.
+Top down organizations of larger scientific research efforts obstruct the flow of information between scientists.
+The other destructive result of weapons of warfare is that "each terrifying discovery merely increases our subjection to the need of making a new discovery.
+"(p.129)   A global communications network has made it difficult for new voices to be heard.
+Everything becomes more homogenized.
+Academia is not taking on the role of fostering new ideas, but instead creates requirements for unoriginal, though formally correct, work.
+The thesis becomes a perfunctory task which has no reason to be performed.
+The role of the intellectual and scientist is to be a creative agent in society, but the direction of social organizations makes this increasingly difficult.
+The realm of machines and the realm of man impinge upon each other.
+The first industrial revolution saw the impingement of machines as an alternative to human muscle.
+The second revolution is one in which machines will also replace human activities requiring low levels of judgment.
+A tremendous social upheaval will occur as this takes place.
+"It is perfectly clear that this will produce ab unemployment situation, in comparison with which... the depression of the thirties will seem a pleasant joke."
+(p.162)   Weiner describes self regulating machines designed to follow or avoid light using sensors to detect light and a tiller to steer appropriately.
+Some diseases, such as intentional tremors and Parkinson's disease, can be modeled mathematically as an overload of the feedback mechanism.
+To explore this phenomenon and test the model, tropism machines were built and the feedback mechanism was made to have a variable intensity.
+A study of the optimum distribution of word length has interesting implications for the philosophy of science.
+The study uses game theory and assumes a communicating team and a jamming team.
+The assumption of jamming forces in physics leads to wasted effort, since nature does not actively oppose the scientist (this may not be true in the life sciences, but it is certainly true in physics).
+A scientist must have faith.
+The faith of the scientist can not be the faith of the Church or of the Marxist.
+These are faiths that follows from orders.
+The faith of a scientist is a faith in the laws of nature, and in the power of induction.
+The imposition of faith from the outside is destructive to society, because it destroys science.
