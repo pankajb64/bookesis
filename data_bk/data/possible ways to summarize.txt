@@ -1,6 +1,0 @@
-Follow these approaches to create summaries, for each step use ROUGE-1 metric to evaluation P, R and F measures. Try to create a dataset on which to test and obtain a set of summaries to compare against. Try to tweak parameters as well as see if that changes things. At the end you may want to evaluate using ROUGE-2, ROUGE-SU4 and other measures (BLEU maybe?)
-Filter sentences containing index - then do extractive summarization.
-Filter sentences containing index, but for each chosen sentence also include previous and next sentence. Then first do an abstractive summarization of this triplet. Finally do an extractive summarization.
-Create a list of index words. For each word, find the sentences where it is being used. Then create a summary for each sentence (abstractive/extractive). Create final summaries from these summaries by choosing the k most important index words and accumulating their summaries (either one after other or in round robin fashion).
-Repeat above step but for each index word, include previous and next sentence along with the chosen sentence.
-Repeat above two steps, but while creating summary instead of choosing k words, go in a weighted round robin fashion around all words (with more sentences belong to more important words). (Is this any different from the other approaches?)
